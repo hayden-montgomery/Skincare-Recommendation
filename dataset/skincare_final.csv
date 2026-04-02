@@ -1,0 +1,539 @@
+,product_name,brand_name,loves_count,rating,reviews,price_usd,secondary_category,tertiary_category,size (oz),count_cleansers,count_moisturizers,count_exfoliants,count_actives,count_soothing,count_preservatives,count_fragrance,count_oils,count_water_based,has_cleansers,has_moisturizers,has_exfoliants,has_actives,has_soothing,has_preservatives,has_fragrance,has_oils,has_water_based
+15,GENIUS Ultimate Anti-Aging Melting Cleanser,Algenist,9314,4.0569,334.0,38.0,Cleansers,Face Wash & Cleansers,5.0,0,1,0,0,0,3,2,6,1,0,1,0,0,0,1,1,1,1
+16,Gentle Rejuvenating Cleanser,Algenist,7681,4.2689,264.0,28.0,Cleansers,Face Wash & Cleansers,4.0,3,2,3,0,0,2,2,0,2,1,1,1,0,0,1,1,0,1
+17,Advanced Anti-Aging Repairing Oil,Algenist,10676,4.4531,245.0,82.0,Moisturizers,Face Oils,1.0,0,2,0,1,0,0,0,4,0,0,1,0,1,0,0,0,1,0
+18,ALIVE Prebiotic Balancing Mask,Algenist,14367,4.3729,118.0,38.0,Masks,Face Masks,1.7,5,2,4,1,0,3,1,0,2,1,1,1,1,0,1,1,0,1
+19,Balancing Cleanser,Alpha-H,3612,4.5455,77.0,38.0,Cleansers,Face Wash & Cleansers,6.25,1,1,1,0,1,2,2,0,1,1,1,1,0,1,1,1,0,1
+20,Triple Action Cleanser,Alpha-H,2138,4.25,12.0,38.0,Cleansers,Face Wash & Cleansers,6.25,1,1,0,0,1,2,1,0,1,1,1,0,0,1,1,1,0,1
+21,Wild Huckleberry 8-Acid Polishing Peel Mask,alpyn beauty,28060,4.6801,347.0,56.0,Masks,Face Masks,1.7,2,2,8,0,2,1,1,3,1,1,1,1,0,1,1,1,1,1
+22,Juneberry & Collagen Hydrating Cold Cream Cleanser,alpyn beauty,5754,4.895,238.0,39.0,Cleansers,Face Wash & Cleansers,3.9,2,5,3,1,0,1,1,5,1,1,1,1,1,0,1,1,1,1
+23,Creamy Bubbling Cleanser with Vitamin C & AHAs,alpyn beauty,13297,4.3832,167.0,36.0,Cleansers,Face Wash & Cleansers,4.0,3,3,6,1,1,1,0,4,1,1,1,1,1,1,1,0,1,1
+24,Willow & Sweet Agave Plumping Lip Mask,alpyn beauty,12568,4.5405,148.0,28.0,Lip Balms & Treatments,Lip Balms & Treatments,0.35,1,1,2,1,1,0,1,9,0,1,1,1,1,1,0,1,1,0
+98,The Cream Cleansing Gel with TFC8 Gentle Cleanser,Augustinus Bader,4123,4.4826,661.0,70.0,Cleansers,Face Wash & Cleansers,3.38,3,1,2,2,1,1,0,3,2,1,1,1,1,1,1,0,1,1
+99,The Face Cream Mask,Augustinus Bader,684,4.375,48.0,215.0,Masks,Face Masks,1.7,2,4,2,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+104,Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks,BeautyBio,16264,4.0594,202.0,40.0,Eye Care,Eye Masks,,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1
+105,The ZenBubble Gel Cream,BeautyBio,5539,4.4063,192.0,69.0,Moisturizers,Moisturizers,1.7,0,1,1,1,1,1,0,0,1,0,1,1,1,1,1,0,0,1
+107,The Balance pH Balancing Gel Cleanser,BeautyBio,10844,4.4713,87.0,39.0,Cleansers,Face Wash & Cleansers,6.0,3,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,0,1
+109,Cryo Skin Icing Roller + Bright Eyes Gels Set,BeautyBio,876,4.3471,171.0,100.0,High Tech Tools,Anti-Aging,,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1
+114,Aqua Bomb Overnight Lip Mask,belif,13764,4.4068,1964.0,22.0,Lip Balms & Treatments,Lip Balms & Treatments,0.7,0,1,0,0,0,0,3,1,1,0,1,0,0,0,0,1,1,1
+115,Aqua Bomb Sleeping Mask,belif,47248,4.5147,985.0,38.0,Moisturizers,Night Creams,2.53,1,3,0,0,2,0,2,5,2,1,1,0,0,1,0,1,1,1
+116,Aqua Bomb Jelly Cleanser,belif,17087,4.2943,683.0,30.0,Cleansers,Face Wash & Cleansers,5.41,5,2,1,0,0,1,2,5,1,1,1,1,0,0,1,1,1,1
+124,The POREfessional Smooth Sip Lightweight Gel-Cream Moisturizer,Benefit Cosmetics,736,4.5975,718.0,44.0,Moisturizers,Moisturizers,1.7,0,2,1,2,2,0,1,2,1,0,1,1,1,1,0,1,1,1
+125,The POREfessional Deep Retreat Pore-Clearing Clay Mask,Benefit Cosmetics,1773,4.766,705.0,39.0,Masks,Face Masks,2.5,0,1,1,1,1,0,1,5,1,0,1,1,1,1,0,1,1,1
+126,The POREfessional Speedy Smooth Mask,Benefit Cosmetics,1024,4.7134,471.0,39.0,Masks,Face Masks,2.0,1,6,2,1,1,2,2,2,1,1,1,1,1,1,1,1,1,1
+127,The POREfessional Good Cleanup Foaming Cleanser,Benefit Cosmetics,429,4.6212,462.0,29.0,Cleansers,Face Wash & Cleansers,5.0,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+138,Squalane + Omega Repair Deep Hydration Moisturizer,Biossance,76514,4.2101,2089.0,60.0,Moisturizers,Moisturizers,1.69,1,7,3,1,0,2,1,3,1,1,1,1,1,0,1,1,1,1
+139,Squalane + Probiotic Balancing Gel Moisturizer,Biossance,58788,4.0924,714.0,54.0,Moisturizers,Moisturizers,1.69,0,2,3,0,2,2,0,1,1,0,1,1,0,1,1,0,1,1
+140,Squalane + Peptide Brightening & De-Puffing Eye Gel,Biossance,59273,3.6371,653.0,56.0,Eye Care,Eye Creams & Treatments,0.5,0,2,1,4,2,2,1,0,1,0,1,1,1,1,1,1,0,1
+141,Squalane + Amino Aloe Gentle Pore-Minimizing Cleanser,Biossance,39366,4.4072,528.0,28.0,Cleansers,Face Wash & Cleansers,6.76,4,2,1,0,1,1,1,4,1,1,1,1,0,1,1,1,1,1
+142,Squalane + Elderberry Nourishing Jelly Cleanser,Biossance,21228,3.6441,236.0,28.0,Cleansers,Face Wash & Cleansers,5.07,1,3,2,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1
+143,Mini Squalane + Omega Repair Deep Hydration Moisturizer,Biossance,14541,3.2333,30.0,20.0,Moisturizers,Moisturizers,0.5,1,7,3,1,0,2,1,3,1,1,1,1,1,0,1,1,1,1
+146,Soothing Face Cleanser Oil,Bobbi Brown,10137,4.4063,32.0,53.0,Cleansers,Face Wash & Cleansers,6.8,0,1,0,1,1,0,1,6,1,0,1,0,1,1,0,1,1,1
+147,Extra Eye Repair Cream Intense,Bobbi Brown,12571,3.3636,11.0,86.0,Eye Care,Eye Creams & Treatments,0.5,1,2,4,1,0,2,1,4,1,1,1,1,1,0,1,1,1,1
+148,Extra Repair Moisture Cream,Bobbi Brown,3331,4.5,2.0,110.0,Moisturizers,Moisturizers,1.7,0,3,2,1,0,3,5,17,1,0,1,1,1,0,1,1,1,1
+318,Pore Minimizing Instant Detox Mask,Caudalie,185939,4.5015,1029.0,42.0,Masks,Face Masks,2.5,0,1,3,0,0,2,2,8,1,0,1,1,0,0,1,1,1,1
+319,Vinopure Pore Purifying Gel Cleanser,Caudalie,30905,4.4615,949.0,30.0,Cleansers,Face Wash & Cleansers,5.0,3,1,2,0,1,2,1,6,2,1,1,1,0,1,1,1,1,1
+321,Vinoperfect Brightening Glycolic Peel Mask,Caudalie,19999,4.5365,192.0,42.0,Masks,Face Masks,,1,4,5,1,1,0,1,4,1,1,1,1,1,1,0,1,1,1
+322,Vinosource-Hydra Grape Water Gel Moisturizer,Caudalie,7757,4.2432,185.0,45.0,Moisturizers,Moisturizers,1.6,0,2,2,1,1,2,1,2,2,0,1,1,1,1,1,1,1,1
+323,Resveratrol Lift Firming Eye Gel-Cream,Caudalie,20074,4.3333,174.0,62.0,Eye Care,Eye Creams & Treatments,0.5,1,4,2,2,0,2,1,2,1,1,1,1,1,0,1,1,1,1
+324,Vinosource-Hydra Moisturizing Mask,Caudalie,17013,4.764,161.0,42.0,Masks,Face Masks,2.5,1,1,2,1,0,2,3,1,2,1,1,1,1,0,1,1,1,1
+325,Vinoclean Gentle Foam Cleanser,Caudalie,11568,4.1753,154.0,30.0,Cleansers,Face Wash & Cleansers,5.0,6,1,1,0,1,1,2,0,1,1,1,1,0,1,1,1,0,1
+326,Vinopure Purifying Clay Mask,Caudalie,18954,4.6319,144.0,42.0,Masks,Face Masks,1.0,0,1,2,0,0,2,2,7,2,0,1,1,0,0,1,1,1,1
+327,Deep Exfoliating Cleanser,Caudalie,9182,4.6923,13.0,38.0,Cleansers,Face Wash & Cleansers,2.5,1,1,1,1,0,2,3,1,2,1,1,1,1,0,1,1,1,1
+328,Deepwater Nourishing Lip Mask with Sea Moss and Aloe Stem Cells,CAY SKIN,7510,4.5818,55.0,22.0,Lip Balms & Treatments,Lip Balms & Treatments,0.7,0,1,2,1,2,0,0,5,1,0,1,1,1,1,0,0,1,1
+351,Goddess Clay Mask,Charlotte Tilbury,11636,4.3115,61.0,58.0,Masks,Face Masks,2.54,0,2,3,2,0,3,4,3,1,0,1,1,1,0,1,1,1,1
+352,Instant Magic Facial Dry Sheet Mask,Charlotte Tilbury,11527,3.4906,53.0,25.0,Masks,Sheet Masks,,0,3,2,4,0,2,1,6,0,0,1,1,1,0,1,1,1,0
+354,Cryo-Recovery Lifting Face Mask with Acupressure Technology,Charlotte Tilbury,15090,2.8077,26.0,55.0,High Tech Tools,High Tech Tools,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,Mini Goddess Clay Mask 15ml Travel Size,Charlotte Tilbury,6446,3.0833,12.0,16.0,Masks,Face Masks,0.5,0,2,3,2,0,3,4,3,1,0,1,1,1,0,1,1,1,1
+361,One-Step Gentle Exfoliating Cleanser with Orange Extract,Clarins,25054,4.6138,523.0,39.0,Cleansers,Face Wash & Cleansers,4.3,4,4,1,0,0,1,3,0,2,1,1,1,0,0,1,1,0,1
+362,V-Facial Instant Depuffing Face Mask,Clarins,26393,4.7547,159.0,67.0,Masks,Face Masks,2.5,3,5,0,0,0,1,2,1,1,1,1,0,0,0,1,1,1,1
+364,Hydrating Gentle Foaming Cleanser with Aloe Vera,Clarins,1562,3.3333,24.0,30.0,Cleansers,Face Wash & Cleansers,4.5,3,2,2,0,1,2,1,0,1,1,1,1,0,1,1,1,0,1
+365,Multi-Active Anti-Aging Day Cream-Gel Moisturizer for Glowing Skin,Clarins,2459,3.7727,22.0,59.0,Moisturizers,Moisturizers,1.7,1,3,3,3,0,2,2,1,1,1,1,1,1,0,1,1,1,1
+366,Purifying Gentle Foaming Cleanser with Salicylic Acid,Clarins,1195,2.5294,17.0,30.0,Cleansers,Face Wash & Cleansers,4.2,5,2,2,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+367,Extra-Firming & Smoothing Face Mask,Clarins,4267,4.25,16.0,79.0,Masks,Face Masks,2.5,0,4,0,0,0,3,2,2,1,0,1,0,0,0,1,1,1,1
+368,Self Tanning Face & Body Tinted Gel,Clarins,1606,5.0,4.0,42.0,Self Tanners,For Body,,0,2,1,1,0,3,2,0,1,0,1,1,1,0,1,1,0,1
+369,Total Cleansing Oil & Makeup Remover,Clarins,1143,3.25,4.0,37.0,Cleansers,Face Wash & Cleansers,5.0,0,0,1,1,0,0,1,2,1,0,0,1,1,0,0,1,1,1
+370,Take The Day Off Cleansing Balm Makeup Remover,CLINIQUE,185324,4.5294,4375.0,38.0,Cleansers,Face Wash & Cleansers,3.8,0,0,0,1,0,1,1,3,1,0,0,0,1,0,1,1,1,1
+371,Mini Take The Day Off Cleansing Balm Makeup Remover,CLINIQUE,37388,4.5294,4375.0,14.0,Mini Size,Mini Size,1.0,0,0,0,1,0,1,1,3,1,0,0,0,1,0,1,1,1,1
+372,Dramatically Different Moisturizing Gel,CLINIQUE,95864,4.4383,3977.0,32.5,Moisturizers,Moisturizers,4.2,0,1,0,0,1,2,1,0,1,0,1,0,0,1,1,1,0,1
+373,Smart Clinical Repair Wrinkle Correcting Eye Cream,CLINIQUE,3109,4.24,2017.0,57.0,Eye Care,Eye Creams & Treatments,0.5,1,5,2,6,1,5,2,3,1,1,1,1,1,1,1,1,1,1
+374,Smart Clinical Repair Wrinkle Correcting Cream,CLINIQUE,1237,4.178,1899.0,68.0,Moisturizers,Moisturizers,1.7,1,3,0,6,0,5,1,1,1,1,1,0,1,0,1,1,1,1
+375,Smart Clinical Repair Wrinkle Correcting Serum,CLINIQUE,4293,4.194,1670.0,71.0,Treatments,Face Serums,1.0,1,2,2,4,0,4,1,1,1,1,1,1,1,0,1,1,1,1
+377,Acne Solutions Clinical Clearing Gel,CLINIQUE,59548,4.2234,1079.0,32.0,Treatments,Blemish & Acne Treatments,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+378,Rinse-Off Foaming Cleanser,CLINIQUE,17770,4.4933,821.0,23.5,Cleansers,Face Wash & Cleansers,5.0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,1,1
+379,Take The Day Off  Cleansing Oil Makeup Remover,CLINIQUE,29640,4.3309,550.0,34.5,Moisturizers,Face Oils,6.7,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+380,Moisture Surge Overnight Face Mask,CLINIQUE,33104,4.4772,461.0,40.0,Masks,Face Masks,3.4,0,3,0,0,3,1,1,0,2,0,1,0,0,1,1,1,0,1
+384,Redness Solutions Soothing Cleanser,CLINIQUE,9881,4.1672,287.0,26.5,Cleansers,Face Wash & Cleansers,5.0,0,2,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1
+385,Repairwear Anti-Gravity Eye Cream,CLINIQUE,11912,4.1702,282.0,54.0,Eye Care,Eye Creams & Treatments,0.5,2,5,2,1,0,1,1,2,1,1,1,1,1,0,1,1,1,1
+386,Acne Solutions Oil-Control Cleansing Mask,CLINIQUE,18472,4.4769,281.0,29.0,Masks,Face Masks,3.4,0,0,0,0,2,1,0,0,1,0,0,0,0,1,1,0,0,1
+387,Repairwear Intensive Lip Treatment,CLINIQUE,15182,4.2963,270.0,31.5,Lip Balms & Treatments,Lip Balms & Treatments,0.14,3,4,4,0,0,2,5,2,1,1,1,1,0,0,1,1,1,1
+388,Take The Day Off Charcoal Cleansing Balm Makeup Remover,CLINIQUE,2618,4.5521,259.0,38.0,Cleansers,Makeup Removers,4.2,0,0,0,1,0,1,1,3,1,0,0,0,1,0,1,1,1,1
+390,Repairwear Laser Focus Wrinkle Correcting Eye Cream,CLINIQUE,9568,3.9067,150.0,54.0,Eye Care,Eye Creams & Treatments,0.5,1,2,1,1,0,1,3,4,1,1,1,1,1,0,1,1,1,1
+393,Acne Solutions Cleansing Gel,CLINIQUE,7215,3.8725,102.0,23.5,Treatments,Blemish & Acne Treatments,4.2,3,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0,1,1
+394,Sun-Kissed Face Gelee Complexion Multitasker Bronzer,CLINIQUE,13842,4.2857,63.0,34.0,Self Tanners,For Face,1.0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,1,1,0,1
+397,Repairwear Uplifting Firming Cream,CLINIQUE,2408,3.7143,42.0,74.0,Moisturizers,Moisturizers,1.7,0,1,2,1,1,1,1,3,1,0,1,1,1,1,1,1,1,1
+398,Fresh Pressed Renewing Powder Cleanser with Pure Vitamin C,CLINIQUE,5608,4.3684,38.0,39.0,Cleansers,Face Wash & Cleansers,0.01,4,0,3,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1
+399,Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Dry Combination Skin,CLINIQUE,3174,4.3143,35.0,64.0,Moisturizers,Moisturizers,2.0,1,1,0,1,0,2,1,2,1,1,1,0,1,0,1,1,1,1
+402,Smart Clinical Repair Wrinkle Correcting Rich Cream,CLINIQUE,574,4.4118,17.0,68.0,Moisturizers,Moisturizers,1.7,1,4,2,6,0,3,1,1,1,1,1,1,1,0,1,1,1,1
+403,Repairwear Uplifting Firming Cream Broad Spectrum SPF 15,CLINIQUE,1195,3.4,15.0,72.0,Moisturizers,Moisturizers,1.7,0,1,2,1,0,2,3,2,1,0,1,1,1,0,1,1,1,1
+406,Smart Night Clinical MD Multi-Dimensional Repair Treatment Retinol Serum,CLINIQUE,2689,4.75,8.0,74.0,Treatments,Face Serums,1.0,0,2,3,5,0,2,0,4,1,0,1,1,1,0,1,0,1,1
+407,All About Clean 2-in-1 Charcoal Face Mask + Scrub,CLINIQUE,1746,3.75,8.0,33.0,Masks,Face Masks,3.4,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1
+408,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Very Dry to Dry Combination Skin,CLINIQUE,1535,4.125,8.0,61.0,Moisturizers,Moisturizers,1.7,1,2,3,1,0,2,4,1,1,1,1,1,1,0,1,1,1,1
+409,Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Very Dry to Dry Skin,CLINIQUE,1428,4.5,6.0,64.0,Moisturizers,Moisturizers,1.7,0,3,1,1,0,3,0,1,1,0,1,1,1,0,1,0,1,1
+411,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Combination Oily to Oily Skin,CLINIQUE,690,3.6667,3.0,53.0,Moisturizers,Moisturizers,1.7,1,1,1,1,0,2,3,1,1,1,1,1,1,0,1,1,1,1
+433,Makeup Melting Balm Cleanser,Community Sixty-Six,1308,3.4032,248.0,16.0,Cleansers,Face Wash & Cleansers,5.0,3,0,3,0,3,3,1,3,1,1,0,1,0,1,1,1,1,1
+434,Hydrating Oil-Free Gel Moisturizer,Community Sixty-Six,1039,4.1245,241.0,25.0,Moisturizers,Moisturizers,1.7,2,2,4,1,1,2,1,0,1,1,1,1,1,1,1,1,0,1
+435,Detoxifying AHA/BHA Gel Cleanser,Community Sixty-Six,1205,4.0504,119.0,16.0,Cleansers,Face Wash & Cleansers,5.0,2,1,4,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1
+436,Hydrating Cream Cleanser with Hyaluronic Acid,Community Sixty-Six,1413,4.75,8.0,16.0,Cleansers,Face Wash & Cleansers,5.0,3,0,3,0,3,1,1,3,1,1,0,1,0,1,1,1,1,1
+437,COOLA Scalp & Hair Mist Organic Sunscreen SPF 30,COOLA,4752,3.2857,7.0,28.0,Sunscreen,Face Sunscreen,2.0,0,1,0,0,1,1,0,1,1,0,1,0,0,1,1,0,1,1
+493,Nomad’s Cream Purifying & Exfoliating AHA Cleanser,DAMDAM,3446,4.7929,198.0,38.0,Cleansers,Face Wash & Cleansers,5.3,1,1,1,1,0,0,0,6,1,1,1,1,1,0,0,0,1,1
+494,Snow Mushroom Pore Cleanser with Exfoliating Glove,DAMDAM,606,4.7037,108.0,47.0,Cleansers,Face Wash & Cleansers,2.47,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+495,Skin Mud Pure Vitamin C Brightening Mask,DAMDAM,2472,4.7419,62.0,48.0,Masks,Face Masks,2.5,1,0,1,0,0,0,0,2,1,1,0,1,0,0,0,0,1,1
+502,Special Cleansing Gel,Dermalogica,34428,4.5196,716.0,42.0,Cleansers,Face Wash & Cleansers,8.4,3,1,1,0,0,1,0,4,1,1,1,1,0,0,1,0,1,1
+503,Mini Special Cleansing Gel,Dermalogica,16436,4.5196,716.0,13.0,Mini Size,Mini Size,1.7,3,1,1,0,0,1,0,4,1,1,1,1,0,0,1,0,1,1
+504,Acne Clearing Skin Wash Cleanser,Dermalogica,15540,4.6303,541.0,42.0,Cleansers,Face Wash & Cleansers,8.4,4,3,4,2,2,3,1,2,1,1,1,1,1,1,1,1,1,1
+505,MultiVitamin Power Recovery Mask,Dermalogica,37767,4.3667,390.0,65.0,Masks,Face Masks,2.5,0,1,2,3,3,5,0,4,1,0,1,1,1,1,1,0,1,1
+506,Daily Glycolic Cleanser,Dermalogica,17736,4.7843,357.0,37.0,Cleansers,Face Wash & Cleansers,5.1,1,1,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1
+507,Melting Moisture Mask,Dermalogica,4950,4.6879,298.0,69.0,Masks,Face Masks,1.7,0,3,8,1,0,0,2,13,1,0,1,1,1,0,0,1,1,1
+508,Awaken Peptide Depuffing Eye Gel,Dermalogica,8685,4.7033,273.0,59.0,Eye Care,Eye Creams & Treatments,0.5,1,2,2,1,0,2,1,2,1,1,1,1,1,0,1,1,1,1
+509,BioLumin-C Vitamin-C Gel Moisturizer,Dermalogica,6836,4.6384,271.0,69.0,Moisturizers,Moisturizers,1.7,0,5,5,1,4,3,2,8,1,0,1,1,1,1,1,1,1,1
+510,Super Rich Repair Moisturizer,Dermalogica,7054,4.6593,226.0,94.0,Moisturizers,Moisturizers,1.7,2,3,1,2,0,2,4,13,1,1,1,1,1,0,1,1,1,1
+511,Calm Water Gel Moisturizer,Dermalogica,8686,4.3562,219.0,55.0,Moisturizers,Moisturizers,1.7,1,1,1,0,1,2,3,0,1,1,1,1,0,1,1,1,0,1
+512,Ultracalming Cleanser,Dermalogica,11814,4.4523,199.0,42.0,Cleansers,Face Wash & Cleansers,8.4,2,2,2,0,2,0,0,0,1,1,1,1,0,1,0,0,0,1
+513,Sound Sleep Cocoon Night Gel-Cream,Dermalogica,7619,4.1823,181.0,89.0,Treatments,Face Serums,1.7,0,2,2,1,0,2,3,3,1,0,1,1,1,0,1,1,1,1
+514,Stress Positive Eye Lift Mask,Dermalogica,8944,4.1667,36.0,74.0,Eye Care,Eye Creams & Treatments,0.85,0,2,1,2,0,2,2,10,2,0,1,1,1,0,1,1,1,1
+515,Skin Resurfacing Lactic Acid Cleanser,Dermalogica,6435,4.1071,28.0,48.0,Cleansers,Exfoliators,5.1,2,1,1,0,0,1,4,9,1,1,1,1,0,0,1,1,1,1
+516,Active Clay Prebiotic Cleanser,Dermalogica,6366,4.6087,23.0,42.0,Cleansers,Face Wash & Cleansers,5.1,3,3,5,0,1,2,2,3,1,1,1,1,0,1,1,1,1,1
+517,Intensive Moisture Cleanser,Dermalogica,2582,4.0,11.0,42.0,Cleansers,Face Wash & Cleansers,5.1,3,4,6,1,0,2,3,18,1,1,1,1,1,0,1,1,1,1
+518,Mini MultiVitamin Power Recovery Mask,Dermalogica,0,5.0,2.0,16.5,Mini Size,Mini Size,0.5,0,0,2,3,2,3,0,3,0,0,0,1,1,1,1,0,1,0
+520,Cica Recover & Repair Multi-Use Balm,Dior,3512,4.6416,611.0,60.0,Moisturizers,Moisturizers,2.5,0,2,0,1,0,0,1,3,1,0,1,0,1,0,0,1,1,1
+521,La Mousse OFF/ON Foaming Face Cleanser,Dior,9400,4.4232,560.0,50.0,Cleansers,Face Wash & Cleansers,5.0,4,1,4,1,0,2,1,0,2,1,1,1,1,0,1,1,0,1
+525,Hydra Life Cooling Hydration Sorbet Eye Gel,Dior,6630,3.3226,31.0,60.0,Eye Care,Eye Creams & Treatments,0.5,0,3,1,1,0,2,1,1,2,0,1,1,1,0,1,1,1,1
+526,Capture Totale Super Potent Cleanser,Dior,2344,4.4545,11.0,65.0,Cleansers,Face Wash & Cleansers,5.0,5,1,5,2,0,2,1,0,1,1,1,1,1,0,1,1,0,1
+529,Capture Dreamskin 1-Minute Mask,Dior,993,5.0,2.0,80.0,Masks,Face Masks,2.5,1,1,2,1,0,4,1,1,1,1,1,1,1,0,1,1,1,1
+531,Cleanser,Dr. Barbara Sturm,6271,4.2,70.0,75.0,Cleansers,Face Wash & Cleansers,5.0,4,1,2,1,2,3,0,0,1,1,1,1,1,1,1,0,0,1
+532,Enzyme Cleanser,Dr. Barbara Sturm,7182,3.8276,58.0,75.0,Cleansers,Face Wash & Cleansers,2.6,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1
+533,Face Mask,Dr. Barbara Sturm,5780,4.5185,54.0,125.0,Masks,Face Masks,1.69,0,2,0,0,2,2,1,2,1,0,1,0,0,1,1,1,1,1
+534,Clarifying Mask,Dr. Barbara Sturm,2446,4.125,16.0,150.0,Masks,Face Masks,1.69,2,4,2,2,2,2,2,4,1,1,1,1,1,1,1,1,1,1
+535,Darker Skin Tones Foam Cleanser,Dr. Barbara Sturm,1146,3.7,10.0,75.0,Cleansers,Face Wash & Cleansers,5.0,1,2,2,0,1,1,1,0,1,1,1,1,0,1,1,1,0,1
+536,Darker Skin Tones Enzyme Cleanser,Dr. Barbara Sturm,3148,4.7778,9.0,75.0,Cleansers,Face Wash & Cleansers,2.6,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1
+537,Aloe Vera Gel,Dr. Barbara Sturm,1128,3.3333,9.0,75.0,Moisturizers,Moisturizers,4.2,1,2,1,0,2,2,1,0,1,1,1,1,0,1,1,1,0,1
+538,Hydro Biotic Recovery Sleeping Mask,Dr. Brandt Skincare,21773,4.5788,1187.0,54.0,Masks,Face Masks,,0,1,2,1,1,2,1,2,1,0,1,1,1,1,1,1,1,1
+539,MAGNETIGHT Age-Defier Mask,Dr. Brandt Skincare,19870,3.9216,306.0,75.0,Masks,Face Masks,3.0,0,0,0,1,0,2,1,4,0,0,0,0,1,0,1,1,1,0
+540,pores no more Vacuum Cleaner Pore Purifying Mask,Dr. Brandt Skincare,16237,3.887,239.0,44.0,Masks,Face Masks,1.0,0,2,3,0,0,2,0,2,1,0,1,1,0,0,1,0,1,1
+541,Clean Biotic pH-balanced yogurt cleanser with chlorophyll,Dr. Brandt Skincare,4790,4.2212,104.0,36.0,Cleansers,Face Wash & Cleansers,3.5,4,1,3,0,0,2,0,1,1,1,1,1,0,0,1,0,1,1
+542,pores no more Mattifying Hydrator Pore Minimizing Gel,Dr. Brandt Skincare,6925,4.2039,103.0,50.0,Treatments,Face Serums,1.7,2,2,1,0,0,4,1,0,1,1,1,1,0,0,1,1,0,1
+543,pores no more Pore Purifying Cleanser,Dr. Brandt Skincare,5136,4.2537,67.0,38.0,Cleansers,Face Wash & Cleansers,3.5,3,2,2,0,0,2,1,3,1,1,1,1,0,0,1,1,1,1
+544,Hyaluronic Marine Makeup Removing Meltaway Cleanser,Dr. Dennis Gross Skincare,8658,4.4555,595.0,32.0,Cleansers,Face Wash & Cleansers,5.0,0,2,3,0,1,3,1,0,1,0,1,1,0,1,1,1,0,1
+545,Alpha Beta AHA/BHA Daily Cleansing Gel,Dr. Dennis Gross Skincare,10330,4.3166,439.0,39.0,Cleansers,Face Wash & Cleansers,7.5,3,1,5,0,2,3,0,2,1,1,1,1,0,1,1,0,1,1
+546,Hyaluronic Marine Dew It Right Eye Gel,Dr. Dennis Gross Skincare,12365,3.5442,147.0,55.0,Eye Care,Eye Creams & Treatments,0.5,1,1,2,0,1,1,0,1,1,1,1,1,0,1,1,0,1,1
+547,Vitamin C Lactic Biocellulose Brightening Treatment Mask,Dr. Dennis Gross Skincare,6445,4.5897,117.0,12.0,Masks,Sheet Masks,,0,1,3,2,0,3,0,1,1,0,1,1,1,0,1,0,1,1
+548,Hyaluronic Marine Hydrating Modeling Mask,Dr. Dennis Gross Skincare,9464,4.0921,76.0,52.0,Masks,Face Masks,,1,1,2,0,0,0,3,0,2,1,1,1,0,0,0,1,0,1
+549,Mini Alpha Beta AHA/BHA Daily Cleansing Gel,Dr. Dennis Gross Skincare,7057,3.7143,14.0,15.0,Cleansers,Face Wash & Cleansers,2.0,3,1,5,0,2,3,0,2,1,1,1,1,0,1,1,0,1,1
+550,Cicapair Tiger Grass Sleepair Intensive Mask,Dr. Jart+,37108,4.5464,743.0,42.0,Masks,Face Masks,3.38,2,2,2,2,1,0,0,5,1,1,1,1,1,1,0,0,1,1
+551,Cicapair Tiger Grass Calming Gel Cream,Dr. Jart+,34356,4.4977,645.0,49.0,Moisturizers,Moisturizers,1.69,1,3,2,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1
+552,Premium BB Tinted Moisturizer with Niacinamide and SPF 40,Dr. Jart+,33513,4.3229,607.0,44.0,Moisturizers,BB & CC Creams,1.35,1,2,0,2,1,3,3,7,1,1,1,0,1,1,1,1,1,1
+553,Cryo Rubber Masks,Dr. Jart+,93809,4.3149,562.0,15.0,Masks,Face Masks,,2,6,3,2,5,2,2,5,2,1,1,1,1,1,1,1,1,1
+554,Sheet Masks,Dr. Jart+,77748,4.2176,432.0,7.0,Masks,Face Masks,,2,2,1,0,1,0,0,2,1,1,1,1,0,1,0,0,1,1
+555,Ceramidin Skin Barrier Moisturizing Mask,Dr. Jart+,10190,4.6936,359.0,9.0,Masks,Face Masks,0.77,1,4,0,1,2,1,1,5,1,1,1,0,1,1,1,1,1,1
+556,Ceramidin Cream-Infused Mask,Dr. Jart+,4288,4.6324,340.0,15.0,Masks,Face Masks,,1,5,0,1,1,1,1,6,1,1,1,0,1,1,1,1,1,1
+557,Dermask Micro Jet Clearing Solution,Dr. Jart+,35931,4.4472,322.0,9.0,Masks,Sheet Masks,,1,2,1,1,1,2,1,2,0,1,1,1,1,1,1,1,1,0
+558,Pore Remedy Purifying Mud Mask,Dr. Jart+,18287,4.1781,320.0,9.0,Masks,Face Masks,0.45,0,1,3,2,2,2,1,1,1,0,1,1,1,1,1,1,1,1
+559,Dermask Water Jet Vital Hydra Solution,Dr. Jart+,40090,4.5507,276.0,7.0,Masks,Sheet Masks,,2,2,1,0,1,0,0,2,1,1,1,1,0,1,0,0,1,1
+560,Dermask Water Jet Soothing Hydra Solution,Dr. Jart+,22325,4.0538,130.0,7.0,Masks,Sheet Masks,,2,1,1,0,2,1,0,2,1,1,1,1,0,1,1,0,1,1
+562,Dermask Micro Jet Brightening Solution,Dr. Jart+,16054,4.0571,70.0,9.0,Masks,Sheet Masks,,0,3,1,1,2,3,1,9,1,0,1,1,1,1,1,1,1,1
+563,Dermask Ultra Jet Peeling Solution,Dr. Jart+,9689,4.2462,65.0,9.0,Treatments,Facial Peels,,2,2,2,0,1,0,1,10,1,1,1,1,0,1,0,1,1,1
+564,Dermask Intra Jet Wrinkless Solution,Dr. Jart+,12850,3.619,63.0,9.0,Masks,Sheet Masks,,0,1,0,1,1,0,0,2,1,0,1,0,1,1,0,0,1,1
+565,Dermask Intra Jet Firming Solution,Dr. Jart+,9087,3.3061,49.0,9.0,Masks,Sheet Masks,,0,1,0,1,1,0,0,2,1,0,1,0,1,1,0,0,1,1
+566,Cicapair Tiger Grass Calming Serum Mask,Dr. Jart+,12733,4.36,25.0,9.0,Masks,Face Masks,,0,3,0,2,1,1,1,0,1,0,1,0,1,1,1,1,0,1
+567,Cryo Rubber Mask with Firming Collagen,Dr. Jart+,0,4.8462,13.0,15.0,Masks,Face Masks,,2,5,2,2,3,2,2,5,2,1,1,1,1,1,1,1,1,1
+568,Cryo Rubber Mask with Brightening Vitamin C,Dr. Jart+,0,3.8333,12.0,15.0,Masks,Face Masks,,2,5,3,4,2,1,2,4,2,1,1,1,1,1,1,1,1,1
+569,Cryo Rubber Mask with Soothing Allantoin,Dr. Jart+,0,4.5556,9.0,15.0,Masks,Face Masks,,1,4,2,2,5,2,2,3,2,1,1,1,1,1,1,1,1,1
+570,Cryo Rubber Mask with Moisturizing Hyaluronic Acid,Dr. Jart+,0,4.0,6.0,15.0,Masks,Face Masks,,2,6,3,2,5,2,2,5,2,1,1,1,1,1,1,1,1,1
+571,Advanced Revitalizing Cleanser,Dr. Lara Devgan Scientific Beauty,217,4.3471,171.0,65.0,Cleansers,Face Wash & Cleansers,7.1,4,1,1,0,2,0,0,8,1,1,1,1,0,1,0,0,1,1
+572,Peptide + Ceramide Repairing Moisturizer,Dr. Zenovia Skincare,5504,4.6744,519.0,79.0,Moisturizers,Moisturizers,1.7,1,8,1,2,2,2,1,2,1,1,1,1,1,1,1,1,1,1
+573,10% Benzoyl Peroxide Acne Cleanser,Dr. Zenovia Skincare,8366,4.4931,434.0,30.0,Cleansers,Face Wash & Cleansers,4.0,0,1,1,0,1,2,1,0,1,0,1,1,0,1,1,1,0,1
+574,Bakuchiol Hydrating Cleanser,Dr. Zenovia Skincare,1784,4.4983,301.0,42.0,Cleansers,Face Wash & Cleansers,4.0,2,1,2,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1
+575,Advanced Retinol Night Repair Treatment,Dr. Zenovia Skincare,2860,4.5019,267.0,72.0,Treatments,Face Serums,1.5,0,1,0,2,1,1,0,0,1,0,1,0,1,1,1,0,0,1
+576,Inflam-Aging Night Repair Treatment,Dr. Zenovia Skincare,1478,4.4769,260.0,72.0,Treatments,Face Serums,1.5,1,1,3,1,3,2,0,1,1,1,1,1,1,1,1,0,1,1
+577,Scar Gel Treatment,Dr. Zenovia Skincare,4241,4.3285,137.0,48.0,Treatments,Face Serums,0.75,1,1,0,1,1,2,0,0,1,1,1,0,1,1,1,0,0,1
+578,Beste No. 9 Jelly Cleanser,Drunk Elephant,113466,3.9426,2702.0,34.0,Cleansers,Face Wash & Cleansers,5.0,4,1,3,1,1,2,0,1,1,1,1,1,1,1,1,0,1,1
+579,T.L.C. Sukari Babyfacial AHA + BHA Mask,Drunk Elephant,274915,4.2909,2554.0,80.0,Masks,Face Masks,1.69,0,1,4,1,2,2,0,2,1,0,1,1,1,1,1,0,1,1
+580,Slaai  Makeup-Melting Butter Cleanser,Drunk Elephant,88374,3.781,1525.0,36.0,Cleansers,Face Wash & Cleansers,,1,1,1,1,0,0,1,11,0,1,1,1,1,0,0,1,1,0
+581,F-Balm Electrolyte Waterfacial Mask,Drunk Elephant,71224,4.1665,1105.0,54.0,Masks,Face Masks,1.69,3,8,4,2,0,4,1,6,2,1,1,1,1,0,1,1,1,1
+583,Bouncy Brightfacial Brightening Mask with 10% Azelaic Acid + 1% Salicylic Acid,Drunk Elephant,27212,4.4859,426.0,68.0,Treatments,Face Serums,1.69,0,8,10,2,1,3,1,6,1,0,1,1,1,1,1,1,1,1
+590,Mini Beste No. 9 Jelly Cleanser,Drunk Elephant,16632,4.1429,35.0,16.0,Mini Size,Mini Size,2.0,4,1,3,1,1,2,0,1,1,1,1,1,1,1,1,0,1,1
+622,Estee Lauder Advanced Night Repair Synchronized Multi-Recovery Complex Serum,Estée Lauder,58873,4.0456,2410.0,115.0,Treatments,Face Serums,1.7,0,2,0,1,1,2,0,1,1,0,1,0,1,1,1,0,1,1
+623,Mini Advanced Night Repair Synchronized Multi-Recovery Complex,Estée Lauder,23348,4.0456,2410.0,19.0,Mini Size,Mini Size,0.24,0,2,0,1,1,2,0,1,1,0,1,0,1,1,1,0,1,1
+624,Advanced Night Repair Synchronized Multi-Recovery Complex Duo,Estée Lauder,11269,4.0456,2410.0,195.0,Treatments,Face Serums,1.7,0,2,0,1,1,2,0,1,1,0,1,0,1,1,1,0,1,1
+625,Advanced Night Repair Eye Gel-Cream,Estée Lauder,10521,4.3493,1795.0,72.0,Eye Care,Eye Creams & Treatments,0.5,1,3,0,2,0,6,1,4,1,1,1,0,1,0,1,1,1,1
+626,Advanced Night Repair Eye Concentrate Matrix Synchronized Multi-Recovery Complex,Estée Lauder,5480,4.3111,1096.0,82.0,Treatments,Face Serums,0.5,1,2,0,1,0,3,1,1,1,1,1,0,1,0,1,1,1,1
+627,Perfectly Clean Multi-Action Foam Cleanser/Purifying Mask,Estée Lauder,8588,4.4397,116.0,30.0,Cleansers,Face Wash & Cleansers,5.0,1,1,5,0,0,0,1,0,1,1,1,1,0,0,0,1,0,1
+628,DayWear Matte Oil-Control Anti-Oxidant Moisturizer Gel Creme,Estée Lauder,8588,4.4808,52.0,59.0,Moisturizers,Moisturizers,1.7,0,1,1,0,0,1,4,0,1,0,1,1,0,0,1,1,0,1
+629,Advanced Night Repair Treatment Intense Reset Concentrate,Estée Lauder,11042,4.4595,37.0,92.0,Treatments,Face Serums,0.7,0,2,2,1,0,3,1,1,1,0,1,1,1,0,1,1,1,1
+630,Micro Essence Infusion Mask,Estée Lauder,6293,4.25,24.0,75.0,Masks,Sheet Masks,,0,1,0,2,0,1,0,0,1,0,1,0,1,0,1,0,0,1
+631,Nutritious Super-Pomegranate Radiant Energy Night Moisturizer Creme/Mask,Estée Lauder,7994,4.6,20.0,74.0,Masks,Face Masks,1.7,0,1,1,0,0,1,3,0,1,0,1,1,0,0,1,1,0,1
+633,Advanced Night Repair Concentrated Eye Treatment Mask,Estée Lauder,13898,4.2143,14.0,42.0,Eye Care,Eye Creams & Treatments,,1,1,1,0,0,3,0,1,1,1,1,1,0,0,1,0,1,1
+634,DayWear Eye Cooling Anti-Oxidant Moisture GelCreme,Estée Lauder,2157,4.2727,11.0,46.0,Eye Care,Eye Creams & Treatments,0.5,2,1,1,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+636,Soft Clean Moisture Rich Foaming Cleanser,Estée Lauder,435,5.0,1.0,26.0,Cleansers,Face Wash & Cleansers,4.5,4,2,1,0,0,2,2,0,1,1,1,1,0,0,1,1,0,1
+646,Liftwear Brightening Vitamin C Gel-Cream,FaceGym,936,4.6753,77.0,60.0,Moisturizers,Moisturizers,1.7,2,4,5,2,0,1,1,2,1,1,1,1,1,0,1,1,1,1
+647,Electro-Lite Enzyme Brightening Gel Cleanser,FaceGym,2393,4.7887,71.0,38.0,Cleansers,Face Wash & Cleansers,3.3,5,1,2,1,0,2,1,1,1,1,1,1,1,0,1,1,1,1
+648,Daily Greens Oil-Free Gel Moisturizer with Moringa and Papaya,Farmacy,72156,4.0612,1356.0,42.0,Moisturizers,Moisturizers,1.7,3,2,0,2,1,2,1,0,2,1,1,0,1,1,1,1,0,1
+649,10% Niacinamide Night Mask,Farmacy,56372,4.6759,901.0,44.0,Masks,Face Masks,1.7,1,4,0,1,4,0,0,3,1,1,1,0,1,1,0,0,1,1
+650,Clean Bee Ultra Gentle Facial Cleanser,Farmacy,52562,4.0341,881.0,28.0,Cleansers,Face Wash & Cleansers,5.0,7,1,1,0,2,2,1,7,2,1,1,1,0,1,1,1,1,1
+651,Honey Savior All-in-One Skin Repair Salve,Farmacy,34646,4.4348,529.0,34.0,Moisturizers,Moisturizers,1.6,0,0,1,1,0,0,0,4,0,0,0,1,1,0,0,0,1,0
+652,Whipped Greens Oil-Free Foaming Cleanser with Moringa and Papaya,Farmacy,40927,4.5747,482.0,28.0,Cleansers,Face Wash & Cleansers,5.0,3,1,6,0,0,1,2,0,2,1,1,1,0,0,1,1,0,1
+654,Honey Potion Plus Ceramide Hydration Mask,Farmacy,32523,4.0,70.0,60.0,Masks,Face Masks,4.1,0,3,0,1,2,1,0,3,1,0,1,0,1,1,1,0,1,1
+668,Total Cleans'r Makeup-Removing Cleanser with Barbados Cherry,Fenty Skin,42777,4.103,427.0,28.0,Cleansers,Face Wash & Cleansers,4.9,5,1,1,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+669,Cookies N Clean Whipped Clay Pore Detox Face Mask with Salicylic Acid + Charcoal,Fenty Skin,73465,4.6897,390.0,35.0,Masks,Face Masks,2.5,0,3,2,0,1,2,0,1,1,0,1,1,0,1,1,0,1,1
+670,Plush Puddin’ Intensive Recovery Lip Mask With Pomegranate Sterols + Vitamin E,Fenty Skin,76840,4.1144,376.0,22.0,Lip Balms & Treatments,Lip Balms & Treatments,0.5,1,0,0,1,0,1,0,4,0,1,0,0,1,0,1,0,1,0
+672,Instant Reset Brightening Overnight Recovery Gel-Cream With Niacinamide + Kalahari Melon Oil,Fenty Skin,35804,4.1988,166.0,45.0,Moisturizers,Moisturizers,1.7,1,5,2,2,2,3,5,5,1,1,1,1,1,1,1,1,1,1
+673,Mini Instant Reset Brightening Overnight Recovery Gel-Cream With Niacinamide + Kalahari Melon Oil,Fenty Skin,4881,4.1988,166.0,26.0,Moisturizers,Moisturizers,1.0,1,5,2,2,2,3,5,5,1,1,1,1,1,1,1,1,1,1
+674,Flash Nap Instant Revival Priming Eye Gel-Cream With Green Tea + Persian Silk Tree,Fenty Skin,26880,3.5143,70.0,36.0,Eye Care,Eye Creams & Treatments,0.5,0,4,2,0,0,3,4,1,1,0,1,1,0,0,1,1,1,1
+676,Mini Total Cleans'r Makeup Removing Cleanser,Fenty Skin,9677,3.7727,22.0,15.0,Mini Size,Mini Size,1.52,5,1,1,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+677,Melt Awf Jelly Oil Makeup-Melting Cleanser,Fenty Skin,8214,4.0909,11.0,34.0,Cleansers,Face Wash & Cleansers,3.3,0,1,0,1,0,1,3,9,1,0,1,0,1,0,1,1,1,1
+678,Instant Reset Brightening Overnight Recovery Gel-Cream with Niacinamide Refill,Fenty Skin,8257,5.0,8.0,40.0,Moisturizers,Moisturizers,1.7,1,5,2,2,2,3,5,5,1,1,1,1,1,1,1,1,1,1
+679,Ultra Repair Cream Intense Hydration,First Aid Beauty,300432,4.52,7539.0,38.0,Moisturizers,Moisturizers,6.0,0,5,1,0,1,2,0,2,1,0,1,1,0,1,1,0,1,1
+680,Pure Skin Face Cleanser,First Aid Beauty,146805,4.3738,4727.0,24.0,Cleansers,Face Wash & Cleansers,5.0,4,1,3,1,2,3,0,1,1,1,1,1,1,1,1,0,1,1
+682,Deep Cleanser with Red Clay,First Aid Beauty,37998,4.2608,1062.0,24.0,Cleansers,Face Wash & Cleansers,4.7,1,1,0,0,3,1,0,1,1,1,1,0,0,1,1,0,1,1
+683,Ultra Repair Face Moisturizer,First Aid Beauty,59220,4.1964,988.0,28.0,Moisturizers,Moisturizers,1.7,0,5,1,0,1,3,0,3,1,0,1,1,0,1,1,0,1,1
+686,Ultra Repair Hydra-Firm Night Cream,First Aid Beauty,54167,4.3114,562.0,44.0,Moisturizers,Night Creams,1.7,0,3,0,4,0,2,1,3,1,0,1,0,1,0,1,1,1,1
+687,Ultra Repair Firming Collagen Cream with Peptides and Niacinamide,First Aid Beauty,60505,4.5356,534.0,44.0,Moisturizers,Moisturizers,1.7,0,5,1,2,2,3,0,1,1,0,1,1,1,1,1,0,1,1
+688,Ultra Repair Wild Oat Hydrating Toner,First Aid Beauty,54752,4.4746,531.0,24.0,Cleansers,Toners,6.0,0,3,3,0,0,4,2,1,1,0,1,1,0,0,1,1,1,1
+689,Ultra Repair Oat & Hemp Seed Dry Oil,First Aid Beauty,28615,4.3545,440.0,36.0,Moisturizers,Face Oils,1.0,0,2,1,0,0,1,2,7,1,0,1,1,0,0,1,1,1,1
+690,Ultra Repair Oil-Control Moisturizer,First Aid Beauty,24055,4.2388,289.0,36.0,Moisturizers,Moisturizers,1.7,0,1,2,1,0,4,0,0,2,0,1,1,1,0,1,0,0,1
+693,FAB Pharma BHA Acne Spot Treatment Gel 2% Salicylic Acid,First Aid Beauty,13002,4.2857,77.0,26.0,Treatments,Blemish & Acne Treatments,,0,1,3,0,2,4,0,0,1,0,1,1,0,1,1,0,0,1
+694,2-in-1 Cleansing Oil + Makeup Remover,First Aid Beauty,9294,3.6081,74.0,26.0,Cleansers,Face Wash & Cleansers,5.0,3,1,0,0,0,4,0,0,2,1,1,0,0,0,1,0,0,1
+695,FAB Pharma Calamine Pore Purging Mask,First Aid Beauty,14414,4.5366,41.0,30.0,Masks,Face Masks,2.5,2,1,2,0,3,3,0,2,1,1,1,1,0,1,1,0,1,1
+697,Call It A Night Activated Mask,FOREO,13055,4.5909,22.0,10.99,Masks,Face Masks,,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,1
+698,Youth Junkie Activated Mask,FOREO,9611,4.6316,19.0,21.99,Masks,Face Masks,,1,4,0,1,2,2,2,3,1,1,1,0,1,1,1,1,1,1
+699,Make My Day Activated Mask,FOREO,9889,4.1667,18.0,10.99,Masks,Face Masks,,0,1,1,0,0,1,1,0,0,0,1,1,0,0,1,1,0,0
+700,H2Overdose Activated Mask,FOREO,4878,3.8182,11.0,20.0,Masks,Face Masks,,2,5,0,0,2,1,2,3,1,1,1,0,0,1,1,1,1,1
+701,Glow Addict Activated Mask,FOREO,8426,4.5,10.0,21.99,Masks,Face Masks,,2,4,1,2,2,1,2,3,1,1,1,1,1,1,1,1,1,1
+702,Soy Hydrating Gentle Face Cleanser,fresh,282865,4.3628,8733.0,39.0,Cleansers,Face Wash & Cleansers,5.0,1,1,1,1,1,2,0,5,3,1,1,1,1,1,1,0,1,1
+703,Rose Face Mask,fresh,125801,4.1887,2411.0,64.0,Masks,Face Masks,3.3,0,1,2,1,1,3,0,4,3,0,1,1,1,1,1,0,1,1
+704,Rose Deep Hydration Sleeping Mask,fresh,44288,4.4586,1232.0,29.0,Masks,Face Masks,1.0,1,3,1,1,0,3,0,2,4,1,1,1,1,0,1,0,1,1
+705,Floral Recovery Overnight Mask with Squalane,fresh,30022,4.797,1128.0,69.0,Masks,Face Masks,3.3,4,4,0,1,0,2,1,2,2,1,1,0,1,0,1,1,1,1
+706,Black Tea Instant Perfecting Mask,fresh,65834,4.2919,908.0,96.0,Masks,Face Masks,3.3,1,1,1,1,0,2,4,4,1,1,1,1,1,0,1,1,1,1
+707,Kombucha 2-in-1 No-Rinse Cleanser & Prebiotic Treatment,fresh,8957,4.426,716.0,44.0,Cleansers,Face Wash & Cleansers,6.7,1,1,1,0,0,2,1,1,1,1,1,1,0,0,1,1,1,1
+708,Sugar Recovery Lip Mask Advanced Therapy,fresh,21441,4.6973,598.0,28.0,Lip Balms & Treatments,Lip Balms & Treatments,0.35,0,2,0,1,0,0,4,3,0,0,1,0,1,0,0,1,1,0
+709,Lotus Youth Preserve Rescue Mask,fresh,33687,4.351,490.0,69.0,Masks,Face Masks,3.3,3,4,1,1,0,1,1,3,1,1,1,1,1,0,1,1,1,1
+710,Black Tea Firming Overnight Mask,fresh,73168,4.1369,482.0,96.0,Masks,Face Masks,3.3,0,3,1,2,0,2,3,6,1,0,1,1,1,0,1,1,1,1
+713,Mini Black Tea Instant Perfecting Mask,fresh,9725,4.3571,28.0,40.0,Mini Size,Mini Size,1.0,1,1,1,1,0,2,4,4,1,1,1,1,1,0,1,1,1,1
+714,Lotus Youth Preseve Rescue Mask Mini,fresh,0,4.2667,15.0,28.0,Shop by Concern,Anti-Aging,1.0,3,4,1,1,0,1,1,3,1,1,1,1,1,0,1,1,1,1
+715,Umbrian Clay Pore Purifying Face Mask,fresh,6419,4.5,4.0,58.0,Masks,Face Masks,3.3,1,3,1,2,0,3,2,3,1,1,1,1,1,0,1,1,1,1
+716,Mini Black Tea Firming Overnight Mask,fresh,0,4.0,3.0,40.0,Mini Size,Mini Size,1.0,0,3,1,2,0,2,3,6,1,0,1,1,1,0,1,1,1,1
+717,Mini Floral Recovery Overnight Mask with Squalane,fresh,3539,5.0,1.0,28.0,Masks,Face Masks,1.0,4,4,0,1,0,2,1,2,2,1,1,0,1,0,1,1,1,1
+744,Milky Jelly Gentle Gel Face Cleanser,Glossier,10558,4.0877,57.0,19.0,Cleansers,Face Wash & Cleansers,6.0,2,2,2,0,2,4,1,1,2,1,1,1,0,1,1,1,1,1
+745,Milky Oil Dual-Phase Waterproof Makeup Remover,Glossier,8821,4.2667,15.0,14.0,Cleansers,Face Wash & Cleansers,3.4,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1
+746,Invisible Shield Water-Gel Transparent Sunscreen SPF 35,Glossier,7420,4.1818,11.0,25.0,Sunscreen,Face Sunscreen,1.0,1,1,1,0,1,3,2,1,1,1,1,1,0,1,1,1,1,1
+747,Priming Moisturizer Balance Oil-Control Gel-Cream,Glossier,5826,4.6667,9.0,25.0,Moisturizers,Moisturizers,1.7,1,2,0,2,0,1,0,1,1,1,1,0,1,0,1,0,1,1
+748,Cleanser Concentrate AHA Clarifying and Exfoliating Face Wash,Glossier,5305,3.625,8.0,21.0,Cleansers,Face Wash & Cleansers,3.3,2,2,3,2,1,3,1,0,2,1,1,1,1,1,1,1,0,1
+749,Papaya Sorbet Smoothing Enzyme Cleansing Balm & Makeup Remover,Glow Recipe,87376,4.1989,1428.0,32.0,Cleansers,Face Wash & Cleansers,3.4,0,0,1,0,0,0,0,5,1,0,0,1,0,0,0,0,1,1
+750,Blueberry Bounce Gentle Cleanser,Glow Recipe,72289,3.8103,1065.0,34.0,Cleansers,Face Wash & Cleansers,5.41,2,0,2,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1
+751,Watermelon Glow Hyaluronic Clay Pore-Tight Facial Mask,Glow Recipe,76226,4.5912,981.0,40.0,Masks,Face Masks,2.03,0,1,1,0,0,2,2,2,3,0,1,1,0,0,1,1,1,1
+752,Guava Vitamin C Bright-Eye Gel Cream,Glow Recipe,72173,4.5109,914.0,38.0,Eye Care,Eye Creams & Treatments,0.5,3,3,2,5,0,2,2,5,1,1,1,1,1,0,1,1,1,1
+753,Avocado Ceramide Moisture Barrier Cleanser,Glow Recipe,30873,4.4387,620.0,28.0,Cleansers,Face Wash & Cleansers,5.0,4,2,1,1,0,0,0,2,1,1,1,1,1,0,0,0,1,1
+754,Mini Blueberry Bounce Gentle Cleanser,Glow Recipe,47027,3.7057,316.0,10.0,Mini Size,Mini Size,1.0,2,0,2,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1
+755,goopglow Cloudberry Exfoliating Jelly Cleanser,goop,2403,4.0194,413.0,35.0,Cleansers,Face Wash & Cleansers,4.0,1,2,1,0,0,2,1,6,1,1,1,1,0,0,1,1,1,1
+758,GOOPGENES Nourishing Repair Body Butter,goop,1403,3.8261,23.0,65.0,Moisturizers,Moisturizers,6.08,1,4,1,1,0,1,3,9,1,1,1,1,1,0,1,1,1,1
+759,G.Tox Malachite and Fruit Acid Pore Purifying Cleanser,goop,2395,4.3889,18.0,48.0,Cleansers,Face Wash & Cleansers,5.0,3,1,1,0,0,0,1,6,2,1,1,1,0,0,0,1,1,1
+766,Abeille Royale Intense Repair Youth Oil in Balm,GUERLAIN,655,3.0,1.0,235.0,Masks,Face Masks,2.7,1,2,4,0,1,0,1,2,1,1,1,1,0,1,0,1,1,1
+769,Shave Pillow Moisturizing Body Gel,Hanni,3023,4.6954,151.0,24.0,Moisturizers,Moisturizers,,2,1,0,1,0,0,1,1,2,1,1,0,1,0,0,1,1,1
+772,Blue Tansy BHA and Enzyme Pore Refining Mask,Herbivore,126177,4.2448,1928.0,50.0,Masks,Face Masks,2.0,0,1,0,0,2,0,0,1,1,0,1,0,0,1,0,0,1,1
+773,Aquarius BHA + Blue Tansy Clarity Cleanser,Herbivore,518,5.0,15.0,26.0,Cleansers,Face Wash & Cleansers,2.0,5,1,1,0,2,1,0,1,1,1,1,1,0,1,1,0,1,1
+774,Moon Fruit Retinol Alternative Sleep Mask,Herbivore,5029,3.4167,12.0,54.0,Masks,Face Masks,1.7,4,5,3,0,1,0,1,5,1,1,1,1,0,1,0,1,1,1
+778,Equilibrium Instant Plumping Eye Mask,Hourglass,3935,4.4719,89.0,68.0,Eye Care,Eye Masks,1.0,0,1,0,1,0,1,0,2,1,0,1,0,1,0,1,0,1,1
+779,Equilibrium Rebalancing Cream Cleanser,Hourglass,1812,4.4,55.0,52.0,Cleansers,Face Wash & Cleansers,3.7,1,1,1,0,0,1,3,0,1,1,1,1,0,0,1,1,0,1
+781,Mini Equilibrium Rebalancing Cream Cleanser,Hourglass,1149,5.0,1.0,25.0,Cleansers,Face Wash & Cleansers,0.91,1,1,1,0,0,1,3,0,1,1,1,1,0,0,1,1,0,1
+784,Arctic Repair Fine Lines and Wrinkles Supplement,HUM Nutrition,4938,3.7778,18.0,60.0,Wellness,Beauty Supplements,,0,0,3,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+785,Gentle Brightening Gel Cleanser with Mandelic Acid,Hyper Skin,5176,4.701,97.0,28.0,Cleansers,Face Wash & Cleansers,5.0,2,1,0,0,2,1,0,0,1,1,1,0,0,1,1,0,0,1
+786,Fade and Glow AHA Mask,Hyper Skin,6857,4.4762,63.0,48.0,Masks,Face Masks,1.7,0,4,7,2,1,3,0,4,1,0,1,1,1,1,1,0,1,1
+821,Party Recharge Hydrating Hyaluronic Under Eye Masks,INC.redible,30543,3.6842,76.0,20.0,Eye Care,Eye Masks,,0,1,0,1,1,0,1,1,1,0,1,0,1,1,0,1,1,1
+822,Party Recharge Cryo Me Crazy Under-eye Masks,INC.redible,10008,4.5556,18.0,20.0,Eye Care,Eye Masks,4.47,0,3,2,0,1,0,1,1,1,0,1,1,0,1,0,1,1,1
+823,Hydrating Boob and Bum Sheet Mask Duo,INC.redible,10245,4.0833,12.0,15.0,Masks,Sheet Masks,,0,4,0,2,2,4,4,2,2,0,1,0,1,1,1,1,1,1
+824,Keep It Clean Hydrating Gel Cleanser with Ceramides & 10 Amino Acids,iNNBEAUTY PROJECT,7237,4.5226,155.0,26.0,Cleansers,Face Wash & Cleansers,6.7,4,3,2,0,0,0,0,3,1,1,1,1,0,0,0,0,1,1
+825,Foam Around Clarifying Daily Cleanser Infused with Glycolic Acid,iNNBEAUTY PROJECT,7064,4.3908,87.0,22.0,Cleansers,Face Wash & Cleansers,5.0,5,2,5,2,0,2,1,1,1,1,1,1,1,0,1,1,1,1
+826,GREEN MACHINE insta-glo resurfacing acid mask,iNNBEAUTY PROJECT,7419,4.6531,49.0,30.0,Masks,Face Masks,,0,3,7,0,2,2,0,9,2,0,1,1,0,1,1,0,1,1
+827,Volcanic AHA Pore Clearing Clay Mask,innisfree,104838,4.6149,1197.0,16.0,Masks,Face Masks,3.38,0,3,3,1,0,3,1,2,1,0,1,1,1,0,1,1,1,1
+828,Dewy Glow Jam Cleanser with Jeju Cherry Blossom,innisfree,9095,4.3095,42.0,13.0,Cleansers,Face Wash & Cleansers,5.29,6,1,0,0,0,0,2,0,1,1,1,0,0,0,0,1,0,1
+829,Green Tea Hyaluronic Acid Face Cleanser,innisfree,7953,4.0385,26.0,12.0,Cleansers,Face Wash & Cleansers,5.07,3,4,7,0,0,1,2,0,1,1,1,1,0,0,1,1,0,1
+830,Volcanic Pore Clearing Facial Cleanser with AHA + BHA,innisfree,4123,4.4444,9.0,14.0,Cleansers,Face Wash & Cleansers,5.0,2,2,9,0,0,2,2,0,1,1,1,1,0,0,1,1,0,1
+831,Confidence in a Gel Lotion,IT Cosmetics,14365,4.5826,448.0,45.0,Moisturizers,Moisturizers,2.5,0,7,4,2,1,4,1,1,1,0,1,1,1,1,1,1,1,1
+832,Confidence in a Cleanser Hydrating Facial Cleanser Serum,IT Cosmetics,24647,4.4758,414.0,29.0,Cleansers,Face Wash & Cleansers,5.0,5,4,4,3,0,2,3,2,1,1,1,1,1,0,1,1,1,1
+835,Mini Confidence in a Cleanser,IT Cosmetics,2196,4.1667,12.0,15.0,Mini Size,Mini Size,1.7,6,6,4,4,3,4,3,10,2,1,1,1,1,1,1,1,1,1
+844,Acne Remedy Overnight Repair Moisturizer,Jack Black,972,4.1429,7.0,40.0,Moisturizers,Moisturizers,2.0,1,3,9,0,2,2,1,2,1,1,1,1,0,1,1,1,1,1
+848,Turbo Body Lotion Energizing Gel Moisturizer with Eucalyptus & Aloe,Jack Black,326,5.0,1.0,38.0,Moisturizers,Moisturizers,16.0,1,2,0,0,1,3,4,3,1,1,1,0,0,1,1,1,1,1
+850,Acne Remedy Balancing Foam Cleanser,Jack Black,338,4.3471,171.0,25.0,Cleansers,Face Wash & Cleansers,5.0,3,2,2,0,2,2,1,0,1,1,1,1,0,1,1,1,0,1
+851,That Hit Single Gel-Cream Cleanser,JLo Beauty,6260,4.0992,363.0,39.0,Cleansers,Face Wash & Cleansers,5.0,6,2,2,2,0,3,2,3,1,1,1,1,1,0,1,1,1,1
+852,That Limitless Glow Sheet Mask,JLo Beauty,11890,4.013,307.0,49.0,Masks,Sheet Masks,,0,2,0,2,0,4,3,5,1,0,1,0,1,0,1,1,1,1
+854,Pineapple Enzyme Pore Clearing Cleanser,Josie Maran,16013,4.2437,677.0,29.0,Cleansers,Face Wash & Cleansers,5.0,5,2,2,1,1,4,2,2,1,1,1,1,1,1,1,1,1,1
+872,ExfoliKate Cleanser Daily Foaming Wash,Kate Somerville,62349,4.4494,948.0,44.0,Cleansers,Face Wash & Cleansers,4.0,3,2,3,0,1,1,2,3,1,1,1,1,0,1,1,1,1,1
+873,EradiKate Daily Cleanser Acne Treatment,Kate Somerville,36518,4.2392,623.0,44.0,Treatments,Blemish & Acne Treatments,4.0,3,2,1,1,0,4,4,0,1,1,1,1,1,0,1,1,0,1
+875,Goat Milk Moisturizing Cleanser,Kate Somerville,16803,4.5575,174.0,44.0,Cleansers,Face Wash & Cleansers,4.0,5,2,3,1,2,0,1,5,1,1,1,1,1,1,0,1,1,1
+876,DeliKate Soothing Cleanser,Kate Somerville,4060,4.1875,144.0,44.0,Cleansers,Face Wash & Cleansers,4.0,2,5,4,1,2,0,0,4,1,1,1,1,1,1,0,0,1,1
+877,KateCeuticals Total Repair Cream,Kate Somerville,2129,4.7143,91.0,140.0,Moisturizers,Moisturizers,1.0,0,4,2,1,1,3,4,7,1,0,1,1,1,1,1,1,1,1
+878,Wrinkle Warrior Eye Gel Visible Dark Circle Eraser,Kate Somerville,4822,3.0667,90.0,76.0,Eye Care,Eye Creams & Treatments,0.3,2,3,2,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+879,EradiKate Acne Mark Fading Gel with Salicylic Acid,Kate Somerville,4497,4.7011,87.0,68.0,Treatments,Blemish & Acne Treatments,1.0,2,2,2,1,0,4,1,0,1,1,1,1,1,0,1,1,0,1
+880,EradiKate Clarifying Acne Gel Cleanser with Salicylic Acid,Kate Somerville,2655,4.6709,79.0,44.0,Treatments,Blemish & Acne Treatments,4.0,6,1,3,1,0,3,0,2,1,1,1,1,1,0,1,0,1,1
+881,Line Release Under Eye Repair Cream,Kate Somerville,4556,3.9143,70.0,140.0,Eye Care,Eye Creams & Treatments,0.5,1,3,0,4,0,4,2,2,1,1,1,0,1,0,1,1,1,1
+973,Ultra Facial Cleanser,Kiehl's Since 1851,63080,4.3712,862.0,30.0,Cleansers,Face Wash & Cleansers,7.8,7,2,1,1,0,4,0,3,1,1,1,1,1,0,1,0,1,1
+975,Rare Earth Deep Pore Minimizing Cleansing Clay Mask,Kiehl's Since 1851,112588,4.542,524.0,45.0,Masks,Face Masks,4.2,0,3,0,1,2,2,1,1,1,0,1,0,1,1,1,1,1,1
+976,Mini Rare Earth Deep Pore Minimizing Cleansing Clay Mask,Kiehl's Since 1851,19428,4.542,524.0,25.0,Mini Size,Mini Size,0.95,0,3,0,1,2,2,1,1,1,0,1,0,1,1,1,1,1,1
+977,Ultra Facial Overnight Hydrating Face Mask with 10.5% Squalane,Kiehl's Since 1851,29217,4.5461,434.0,45.0,Masks,Face Masks,3.4,1,2,2,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+978,Avocado Nourishing Hydration Mask,Kiehl's Since 1851,18646,3.9019,316.0,48.0,Masks,Face Masks,3.4,1,5,0,0,0,2,2,4,1,1,1,0,0,0,1,1,1,1
+979,Ultra Facial Advanced Repair Barrier Cream,Kiehl's Since 1851,6823,4.7556,311.0,48.0,Moisturizers,Moisturizers,1.7,1,4,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+980,Ultra Facial Oil-Free Gel Cream,Kiehl's Since 1851,11677,4.4876,201.0,38.0,Moisturizers,Moisturizers,1.7,0,1,2,0,0,1,0,0,1,0,1,1,0,0,1,0,0,1
+981,Buttermask Intense Repair Lip Treatment,Kiehl's Since 1851,40755,4.0419,191.0,28.0,Lip Balms & Treatments,Lip Balms & Treatments,0.35,3,2,2,1,0,0,0,6,1,1,1,1,1,0,0,0,1,1
+982,Rare Earth Deep Pore Daily Cleanser,Kiehl's Since 1851,22813,4.2872,188.0,28.0,Cleansers,Face Wash & Cleansers,5.0,0,3,0,1,2,2,1,1,1,0,1,0,1,1,1,1,1,1
+985,Calendula Petal-Infused Calming Mask with Aloe Vera,Kiehl's Since 1851,10799,4.5111,45.0,47.0,Masks,Face Masks,3.4,0,2,0,1,3,3,0,1,1,0,1,0,1,1,1,0,1,1
+992,Turmeric BHA Pore & Brightening Treatment Mask,KORA Organics,40323,4.1626,492.0,52.0,Masks,Face Masks,3.38,2,3,2,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1
+993,Mini Turmeric BHA Pore & Brightening Treatment Mask,KORA Organics,12716,4.1626,492.0,18.0,Mini Size,Mini Size,1.0,2,3,2,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1
+994,Milky Mushroom Gentle Cleansing Oil Makeup Remover,KORA Organics,8251,4.4597,459.0,44.0,Cleansers,Face Wash & Cleansers,5.0,1,1,2,0,1,1,0,13,1,1,1,1,0,1,1,0,1,1
+995,Turmeric Glow Foaming Cleanser,KORA Organics,9992,4.6111,288.0,44.0,Cleansers,Face Wash & Cleansers,5.0,4,1,1,1,1,1,1,9,1,1,1,1,1,1,1,1,1,1
+996,Noni Glow Overnight Plumping Hydration Mask,KORA Organics,12672,3.7283,92.0,52.0,Masks,Face Masks,3.38,2,2,2,0,1,1,0,5,1,1,1,1,0,1,1,0,1,1
+997,Greek Yoghurt Foaming Cream Cleanser,KORRES,38097,4.5667,4186.0,28.0,Cleansers,Face Wash & Cleansers,5.07,6,2,2,0,0,2,1,1,2,1,1,1,0,0,1,1,1,1
+998,Greek Yoghurt Nourishing Probiotic Gel-Cream,KORRES,9157,4.348,3112.0,38.5,Moisturizers,Moisturizers,1.35,1,2,4,1,3,1,3,4,2,1,1,1,1,1,1,1,1,1
+999,Greek Yoghurt Probiotic Superdose Face Mask,KORRES,12229,4.5049,509.0,52.0,Masks,Face Masks,3.38,4,4,3,1,2,2,3,3,2,1,1,1,1,1,1,1,1,1
+1000,Mini Greek Yoghurt Foaming Cream Cleanser,KORRES,12738,4.2471,85.0,16.0,Mini Size,Mini Size,2.54,6,2,2,0,0,2,1,1,2,1,1,1,0,0,1,1,1,1
+1012,The Moisturizing Cool Gel Cream,La Mer,8727,3.6788,137.0,200.0,Moisturizers,Moisturizers,1.0,0,2,0,3,0,2,3,3,1,0,1,0,1,0,1,1,1,1
+1013,The Lifting and Firming Mask,La Mer,15023,4.2857,42.0,300.0,Masks,Face Masks,1.7,0,1,3,2,0,2,5,5,2,0,1,1,1,0,1,1,1,1
+1014,The Intensive Revitalizing Mask,La Mer,6256,4.4571,35.0,200.0,Masks,Face Masks,2.5,0,1,0,1,0,1,4,8,1,0,1,0,1,0,1,1,1,1
+1015,Treatment Lotion Hydrating Mask,La Mer,8179,4.2609,23.0,190.0,Masks,Sheet Masks,,0,2,0,2,0,4,4,4,1,0,1,0,1,0,1,1,1,1
+1016,Mini The Lifting and Firming Mask,La Mer,7589,4.3636,22.0,95.0,Mini Size,Mini Size,0.5,0,1,3,2,0,2,5,5,2,0,1,1,1,0,1,1,1,1
+1017,Mini The Moisturizing Cool Gel Cream,La Mer,3320,4.3,10.0,100.0,Mini Size,Mini Size,0.5,0,2,0,3,0,2,3,3,1,0,1,0,1,0,1,1,1,1
+1019,Hydra Zen Gel-Cream Oil-Free Moisturizer with Salicylic Acid,Lancôme,15564,4.5629,1256.0,48.0,Moisturizers,Moisturizers,1.7,0,2,2,0,0,1,2,0,1,0,1,1,0,0,1,1,0,1
+1021,Crème Radiance Gentle Cleansing Creamy-Foam Cleanser,Lancôme,17120,4.4416,394.0,34.0,Cleansers,Face Wash & Cleansers,4.2,1,1,5,1,0,0,3,0,1,1,1,1,1,0,0,1,0,1
+1023,Advanced Génifique Hydrogel Melting Mask,Lancôme,13528,4.0833,108.0,15.0,Masks,Sheet Masks,,0,2,0,1,1,5,4,2,1,0,1,0,1,1,1,1,1,1
+1024,Rose Sorbet Cryo-Mask,Lancôme,3771,3.5185,27.0,45.0,Masks,Face Masks,1.7,0,1,2,1,0,0,1,2,2,0,1,1,1,0,0,1,1,1
+1025,Rènergie Lift Multi-Action Ultra Double-Wrapping Cream Face Mask,Lancôme,4838,4.7222,18.0,68.0,Masks,Sheet Masks,,0,2,7,1,0,3,3,0,1,0,1,1,1,0,1,1,0,1
+1026,Lip Sleeping Mask Intense Hydration with Vitamin C,LANEIGE,1081315,4.3508,16118.0,24.0,Lip Balms & Treatments,Lip Balms & Treatments,0.7,1,2,1,1,0,0,1,3,1,1,1,1,1,0,0,1,1,1
+1027,Cica Sleeping Mask,LANEIGE,80111,4.6375,971.0,34.0,Masks,Face Masks,,0,5,2,1,1,1,1,2,1,0,1,1,1,1,1,1,1,1
+1028,Water Sleeping Mask with Squalane,LANEIGE,78940,4.3623,472.0,32.0,Masks,Face Masks,2.3,1,3,1,1,0,1,4,0,1,1,1,1,1,0,1,1,0,1
+1029,Cream Skin Milk Oil Cleanser,LANEIGE,27415,4.3729,303.0,34.0,Cleansers,Face Wash & Cleansers,6.7,1,2,1,1,0,1,1,4,1,1,1,1,1,0,1,1,1,1
+1030,Water Bank Blue Hyaluronic Gel Moisturizer,LANEIGE,15636,4.0473,169.0,40.0,Moisturizers,Moisturizers,1.6,2,3,1,1,0,1,2,2,1,1,1,1,1,0,1,1,1,1
+1075,High Performance Face Cleanser for Clear Skin with Niacinamide,MACRENE actives,204,4.9231,13.0,85.0,Cleansers,Face Wash & Cleansers,2.03,6,1,3,1,2,0,0,0,1,1,1,1,1,1,0,0,0,1
+1080,Gentle Eye Gel Waterproof Eye & Lip Makeup Remover,MAKE UP FOR EVER,1031,4.3471,171.0,29.0,Cleansers,Makeup Removers,4.2,0,1,0,0,0,2,0,2,2,0,1,0,0,0,1,0,1,1
+1083,Acne Facial Cleanser,Mario Badescu,13045,3.7625,80.0,15.0,Cleansers,Face Wash & Cleansers,6.0,1,1,1,0,2,3,2,0,1,1,1,1,0,1,1,1,0,1
+1084,Enzyme Cleansing Gel,Mario Badescu,6291,3.75,72.0,14.0,Cleansers,Face Wash & Cleansers,8.0,0,1,0,0,0,3,1,0,1,0,1,0,0,0,1,1,0,1
+1085,Glycolic Foaming Cleanser,Mario Badescu,8640,4.129,62.0,16.0,Cleansers,Face Wash & Cleansers,6.0,2,0,1,0,1,2,1,0,1,1,0,1,0,1,1,1,0,1
+1086,Super Collagen Mask,Mario Badescu,9986,4.0,21.0,18.0,Masks,Face Masks,2.0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,1,1,0,1
+1087,Flower & Tonic Clay Mask,Mario Badescu,2333,4.5,4.0,18.0,Masks,Face Masks,2.0,0,0,1,1,1,3,2,3,2,0,0,1,1,1,1,1,1,1
+1088,Brightening Mask with Vitamin C,Mario Badescu,2200,3.5,4.0,22.0,Masks,Face Masks,2.0,0,1,0,0,0,3,2,0,2,0,1,0,0,0,1,1,0,1
+1089,Gentle Foaming Cleanser,Mario Badescu,2867,4.0,3.0,14.0,Cleansers,Face Wash & Cleansers,6.0,1,2,1,0,2,4,1,0,2,1,1,1,0,1,1,1,0,1
+1099,Vegan Milk Cleanser,MILK MAKEUP,17898,4.4259,789.0,30.0,Cleansers,Face Wash & Cleansers,4.0,4,5,2,0,1,3,0,11,2,1,1,1,0,1,1,0,1,1
+1101,Hydro Ungrip Makeup Remover + Cleansing Water,MILK MAKEUP,14632,4.6475,139.0,32.0,Cleansers,Makeup Removers,8.3,1,1,1,1,1,3,1,0,1,1,1,1,1,1,1,1,0,1
+1130,Milk Cleanse Gentle Foaming Cleanser,Moon Juice,2902,4.4043,47.0,32.0,Cleansers,Face Wash & Cleansers,4.0,5,1,1,1,1,0,0,5,1,1,1,1,1,1,0,0,1,1
+1177,Calming Herbal Repair Overnight Recovery Balm for Skin Barrier Support,Mount Lai,2516,4.0875,160.0,60.0,Treatments,Face Serums,1.0,0,1,0,0,0,0,0,7,0,0,1,0,0,0,0,0,1,0
+1183,Acne Control Clarifying Cleanser,Murad,56973,4.2348,2572.0,36.0,Cleansers,Face Wash & Cleansers,6.75,3,0,3,0,0,2,2,8,1,1,0,1,0,0,1,1,1,1
+1184,Mini Acne Control Clarifying Cleanser,Murad,12651,4.236,2449.0,14.0,Mini Size,Mini Size,2.0,3,0,3,0,0,2,2,8,1,1,0,1,0,0,1,1,1,1
+1185,Acne Control Clarifying Cream Cleanser,Murad,32202,4.3477,906.0,39.0,Cleansers,Face Wash & Cleansers,6.75,5,1,3,2,0,2,1,4,1,1,1,1,1,0,1,1,1,1
+1186,AHA/BHA Exfoliating Cleanser,Murad,54926,4.4981,789.0,46.0,Cleansers,Face Wash & Cleansers,6.75,2,0,4,0,0,3,0,1,1,1,0,1,0,0,1,0,1,1
+1187,Mini AHA/BHA Exfoliating Cleanser,Murad,10438,4.4898,733.0,17.0,Mini Size,Mini Size,2.0,2,0,4,0,0,3,0,1,1,1,0,1,0,0,1,0,1,1
+1188,Nutrient-Charged Water Gel,Murad,21135,4.4755,633.0,71.0,Moisturizers,Moisturizers,1.7,3,5,2,6,0,2,4,1,1,1,1,1,1,0,1,1,1,1
+1189,Essential-C Cleanser,Murad,18246,4.4962,391.0,44.0,Cleansers,Face Wash & Cleansers,6.5,1,1,2,1,2,2,3,5,1,1,1,1,1,1,1,1,1,1
+1190,Retinol Youth Renewal Eye Masks,Murad,20483,4.6294,367.0,42.0,Eye Care,Eye Creams & Treatments,,1,1,3,2,0,1,0,3,1,1,1,1,1,0,1,0,1,1
+1191,Clarifying Water Gel Moisturizer with Hyaluronic Acid,Murad,1415,3.0,8.0,49.0,Moisturizers,Moisturizers,2.0,3,1,4,1,2,2,4,0,2,1,1,1,1,1,1,1,0,1
+1195,Mask-imum Revival Hydra-Plumping Mask,Naturally Serious,978,4.381,126.0,27.0,Masks,Face Masks,1.7,3,6,4,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1
+1196,Lemon-Aid Makeup-Removing Cleansing Gel,Naturally Serious,2017,4.5522,67.0,19.0,Cleansers,Face Wash & Cleansers,4.0,4,0,2,0,0,0,1,14,1,1,0,1,0,0,0,1,1,1
+1203,NUDESKIN Citrus-C Mask & Daily Moisturizer,NUDESTIX,653,4.2603,73.0,39.0,Moisturizers,Moisturizers,2.0,1,1,1,1,0,1,2,7,1,1,1,1,1,0,1,1,1,1
+1205,Gentle Hydra-Gel Face Cleanser,NUDESTIX,177,5.0,1.0,19.0,Cleansers,Face Wash & Cleansers,2.4,0,4,2,1,0,1,3,3,1,0,1,1,1,0,1,1,1,1
+1206,NuFACE Hydrating Aqua Gel,NuFACE,5336,4.3182,22.0,39.0,Moisturizers,Moisturizers,3.3,1,3,1,1,0,3,1,0,1,1,1,1,1,0,1,1,0,1
+1222,C-Rush Vitamin C Gel Moisturizer,OLEHENRIKSEN,105730,4.3404,2961.0,51.0,Moisturizers,Moisturizers,1.7,1,5,6,4,1,2,5,2,1,1,1,1,1,1,1,1,1,1
+1223,PHAT Glow Facial Mask,OLEHENRIKSEN,49921,4.3854,1785.0,52.0,Masks,Face Masks,1.7,0,3,3,2,2,3,4,1,1,0,1,1,1,1,1,1,1,1
+1224,Cold Plunge Pore Mask,OLEHENRIKSEN,102859,4.5335,1522.0,41.0,Masks,Face Masks,3.0,2,3,3,1,0,3,1,2,1,1,1,1,1,0,1,1,1,1
+1225,Find Your Balance Oil Control Cleanser,OLEHENRIKSEN,72479,4.4299,1447.0,33.0,Cleansers,Face Wash & Cleansers,5.0,3,2,5,1,0,3,3,3,1,1,1,1,1,0,1,1,1,1
+1226,Wrinkle Blur Bakuchiol Eye Gel Crème,OLEHENRIKSEN,26008,4.3939,886.0,52.0,Eye Care,Eye Creams & Treatments,0.5,1,1,3,2,4,3,3,0,1,1,1,1,1,1,1,1,0,1
+1227,Truth Juice Daily Cleanser,OLEHENRIKSEN,48054,4.2372,527.0,33.0,Cleansers,Face Wash & Cleansers,5.0,3,1,2,0,0,3,2,3,2,1,1,1,0,0,1,1,1,1
+1228,Mini Truth Juice Daily Cleanser,OLEHENRIKSEN,6786,4.2372,527.0,16.0,Mini Size,Mini Size,2.0,3,1,2,0,0,3,2,3,2,1,1,1,0,0,1,1,1,1
+1286,Clear Improvement Active Charcoal Mask to Clear Pores,Origins,194892,4.3292,4526.0,17.0,Masks,Face Masks,1.0,0,2,1,0,0,3,2,0,2,0,1,1,0,0,1,1,0,1
+1287,Original Skin Retexturizing Mask with Rose Clay,Origins,103131,4.6207,1769.0,32.0,Masks,Face Masks,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1288,Super Spot Remover Acne Treatment Gel,Origins,98392,3.9349,1706.0,20.0,Treatments,Face Serums,0.3,1,1,1,0,0,1,1,2,1,1,1,1,0,0,1,1,1,1
+1289,Drink Up Intensive Overnight Hydrating Mask with Avocado & Swiss Glacier Water,Origins,39378,4.4954,1643.0,32.0,Masks,Face Masks,2.5,1,2,0,1,2,2,3,6,1,1,1,0,1,1,1,1,1,1
+1290,GinZing Refreshing Scrub Cleanser,Origins,49081,4.4763,1627.0,27.0,Cleansers,Exfoliators,5.0,6,2,2,0,1,3,1,4,1,1,1,1,0,1,1,1,1,1
+1291,Clear Improvement Charcoal Honey Mask to Purify and Nourish,Origins,34965,4.6453,1074.0,37.0,Masks,Face Masks,2.5,0,2,1,0,0,4,4,8,1,0,1,1,0,0,1,1,1,1
+1292,Out of Trouble 10 Minute Mask to Rescue Problem Skin,Origins,79246,4.397,1000.0,32.0,Masks,Face Masks,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1293,Mini Clear Improvement Active Charcoal Mask to Clear Pore,Origins,43176,3.9843,127.0,17.0,Mini Size,Mini Size,1.0,0,2,1,0,0,3,2,0,2,0,1,1,0,0,1,1,0,1
+1294,GinZing Energizing Gel Cream with Caffeine & Niacinamide,Origins,3509,4.5966,119.0,36.0,Moisturizers,Moisturizers,1.7,1,3,1,3,0,2,3,5,1,1,1,1,1,0,1,1,1,1
+1295,Mini Original Skin Retexturizing Mask with Rose Clay,Origins,29477,4.4762,105.0,17.0,Mini Size,Mini Size,1.0,0,2,1,0,0,3,4,7,1,0,1,1,0,0,1,1,1,1
+1296,Mini Drink Up Intensive Overnight Hydrating Mask with Avocado & Swiss Glacier Water,Origins,26184,4.1143,105.0,17.0,Mini Size,Mini Size,1.0,1,2,0,1,2,2,3,6,1,1,1,0,1,1,1,1,1,1
+1297,Plantscription Anti-Aging Cleanser,Origins,8293,4.2871,101.0,36.0,Cleansers,Face Wash & Cleansers,5.0,1,1,6,0,1,1,2,11,1,1,1,1,0,1,1,1,1,1
+1298,Mega-Mushroom Skin Relief Micellar Cleanser,Origins,11239,4.5,86.0,37.0,Cleansers,Face Wash & Cleansers,6.7,1,1,1,0,0,2,1,12,1,1,1,1,0,0,1,1,1,1
+1299,Dr. Andrew Weil for Origins Mega-Mushroom Relief & Resilience Hydra Burst Gel Lotion,Origins,3001,4.0345,29.0,71.0,Moisturizers,Moisturizers,1.7,1,3,1,1,0,4,3,6,1,1,1,1,1,0,1,1,1,1
+1300,Clear Improvement Zero Oil Cleanser With Charcoal,Origins,1959,3.5,8.0,27.0,Cleansers,Face Wash & Cleansers,5.0,6,2,3,0,1,4,3,7,1,1,1,1,0,1,1,1,1,1
+1365,RESIST Perfectly Balanced Foaming Cleanser,Paula's Choice,27344,4.73,200.0,22.0,Cleansers,Face Wash & Cleansers,6.4,1,5,1,0,1,1,1,2,1,1,1,1,0,1,1,1,1,1
+1366,CLINICAL Discoloration Repair Serum,Paula's Choice,18644,4.6522,138.0,52.0,Treatments,Face Serums,1.0,1,2,3,2,1,2,2,3,1,1,1,1,1,1,1,1,1,1
+1367,CLEAR Pore Normalizing Acne Cleanser,Paula's Choice,24652,4.137,73.0,15.0,Cleansers,Face Wash & Cleansers,6.0,2,1,2,0,1,1,0,1,1,1,1,1,0,1,1,0,1,1
+1368,Skin Perfecting 8% AHA Gel Exfoliant,Paula's Choice,14565,4.617,47.0,34.0,Cleansers,Exfoliators,3.3,0,0,1,0,3,2,0,0,1,0,0,1,0,1,1,0,0,1
+1369,RESIST Barrier Repair Moisturizer with Retinol,Paula's Choice,17313,4.3243,37.0,37.0,Moisturizers,Moisturizers,1.7,1,4,0,2,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+1370,RESIST Weightless Advanced Repairing Toner,Paula's Choice,11114,3.8,25.0,26.0,Cleansers,Toners,4.0,0,2,1,3,0,3,1,0,1,0,1,1,1,0,1,1,0,1
+1371,Blemish Balm Cleanser,Peace Out,16182,4.5597,243.0,22.0,Cleansers,Face Wash & Cleansers,3.6,3,3,9,1,0,0,0,3,1,1,1,1,1,0,0,0,1,1
+1372,Daily Blemish Repairing Moisturizer,Peace Out,8255,4.2624,221.0,28.0,Moisturizers,Moisturizers,1.7,2,7,3,1,0,4,2,6,1,1,1,1,1,0,1,1,1,1
+1373,FIRMx Exfoliating Peel Gel,Peter Thomas Roth,56547,4.5391,1686.0,49.0,Treatments,Facial Peels,3.4,0,1,1,0,0,3,0,0,2,0,1,1,0,0,1,0,0,1
+1374,Mini FIRMx Exfoliating Peel Gel,Peter Thomas Roth,18585,4.5391,1686.0,16.0,Mini Size,Mini Size,1.0,0,1,1,0,0,3,0,0,2,0,1,1,0,0,1,0,0,1
+1375,Anti-Aging Cleansing Gel,Peter Thomas Roth,32125,4.3699,1603.0,39.0,Cleansers,Face Wash & Cleansers,8.5,3,0,2,0,2,3,2,0,1,1,0,1,0,1,1,1,0,1
+1376,Mini Anti-Aging Cleansing Gel,Peter Thomas Roth,9844,4.3699,1603.0,12.0,Mini Size,Mini Size,2.0,3,0,2,0,2,3,2,0,1,1,0,1,0,1,1,1,0,1
+1377,Therapeutic Sulfur Acne Treatment Mask,Peter Thomas Roth,69468,4.5111,1217.0,52.0,Masks,Face Masks,5.0,0,1,0,0,1,3,1,0,1,0,1,0,0,1,1,1,0,1
+1378,Pumpkin Enzyme Mask Enzymatic Dermal Resurfacer,Peter Thomas Roth,55129,4.6611,720.0,60.0,Masks,Face Masks,5.0,0,1,4,1,0,3,1,1,1,0,1,1,1,0,1,1,1,1
+1379,Goodbye Acne AHA/BHA Acne Clearing Gel Face Body Spot Treatment,Peter Thomas Roth,23319,4.2768,625.0,48.0,Treatments,Face Serums,3.4,0,1,3,0,1,4,0,0,1,0,1,1,0,1,1,0,0,1
+1380,Mini Goodbye Acne  AHA/BHA Acne Clearing Gel Face Body Spot Treatment,Peter Thomas Roth,4443,4.2768,625.0,20.0,Mini Size,Mini Size,0.5,0,1,3,0,1,4,0,0,1,0,1,1,0,1,1,0,0,1
+1381,Irish Moor Mud Purifying Black Mask,Peter Thomas Roth,23860,4.3724,537.0,60.0,Masks,Face Masks,5.0,0,1,1,0,0,4,0,1,1,0,1,1,0,0,1,0,1,1
+1382,Cucumber Gel Mask Extreme Detoxifying Hydrator,Peter Thomas Roth,31288,4.1989,533.0,55.0,Masks,Face Masks,5.0,0,1,1,0,4,4,0,1,1,0,1,1,0,1,1,0,1,1
+1383,Goodbye Acne   Complete Acne Treatment Gel,Peter Thomas Roth,5639,4.2702,459.0,44.0,Treatments,Face Serums,1.7,1,3,3,1,1,5,2,1,1,1,1,1,1,1,1,1,1,1
+1384,Cucumber De-Tox Hydra-Gel Eye Patches,Peter Thomas Roth,52503,3.9668,391.0,55.0,Eye Care,Eye Masks,,0,2,0,1,3,2,2,2,1,0,1,0,1,1,1,1,1,1
+1385,24K Gold Pure Luxury Lift & Firm Hydra-Gel Eye Patches,Peter Thomas Roth,49824,3.7594,320.0,75.0,Eye Care,Eye Creams & Treatments,,0,1,0,1,2,1,0,3,1,0,1,0,1,1,1,0,1,1
+1386,Water Drench Hyaluronic Cloud Hydra-Gel Eye Patches,Peter Thomas Roth,60266,4.069,290.0,55.0,Eye Care,Eye Masks,,2,4,1,1,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+1387,FIRMx Collagen Face & Eye Hydra-Gel Patches,Peter Thomas Roth,16592,4.6912,217.0,65.0,Eye Care,Eye Creams & Treatments,,0,5,5,2,1,3,1,0,1,0,1,1,1,1,1,1,0,1
+1388,24K Gold Mask Pure Luxury Lift & Firm,Peter Thomas Roth,16676,3.5,196.0,85.0,Masks,Face Masks,5.0,0,1,0,0,0,3,0,0,1,0,1,0,0,0,1,0,0,1
+1389,Water Drench Hyaluronic Cloud Hydrating Eye Gel,Peter Thomas Roth,5917,3.4595,37.0,43.0,Eye Care,Eye Creams & Treatments,0.5,1,7,2,3,0,6,2,2,1,1,1,1,1,0,1,1,1,1
+1390,Potent-C Power Brightening Hydra-Gels,Peter Thomas Roth,9815,2.6429,28.0,65.0,Eye Care,Eye Masks,,0,1,1,1,2,1,1,2,1,0,1,1,1,1,1,1,1,1
+1391,Water Drench Hyaluronic Cloud Makeup Removing Gel Cleanser,Peter Thomas Roth,2272,4.0,14.0,32.0,Cleansers,Face Wash & Cleansers,6.7,5,3,1,1,0,5,2,1,1,1,1,1,1,0,1,1,1,1
+1392,Water Drench Hyaluronic Cloud Mask Hydrating Gel,Peter Thomas Roth,4791,4.25,12.0,55.0,Masks,Face Masks,5.1,0,2,1,0,1,5,1,0,1,0,1,1,0,1,1,1,0,1
+1433,Balancing Crème Cleanser - Luminous Ceremony,RANAVAT,2102,4.4682,173.0,45.0,Cleansers,Face Wash & Cleansers,3.4,1,4,1,1,0,1,0,2,1,1,1,1,1,0,1,0,1,1
+1439,Glycol Lactic Radiance Renewal Mask,REN Clean Skincare,58212,4.4022,1283.0,58.0,Masks,Face Masks,1.7,0,1,1,1,0,3,3,9,1,0,1,1,1,0,1,1,1,1
+1440,Evercalm Ultra Comforting Rescue Mask,REN Clean Skincare,31464,4.5168,505.0,52.0,Masks,Face Masks,1.7,2,4,1,1,1,1,3,6,1,1,1,1,1,1,1,1,1,1
+1441,Perfect Canvas Clean Jelly Oil Cleanser,REN Clean Skincare,6031,4.0263,266.0,37.0,Cleansers,Face Wash & Cleansers,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1442,Glow Daily Vitamin C Gel Cream,REN Clean Skincare,6074,4.5825,194.0,54.0,Moisturizers,Moisturizers,1.7,3,4,1,1,0,1,3,6,1,1,1,1,1,0,1,1,1,1
+1443,Evercalm Gentle Cleansing Gel,REN Clean Skincare,1293,4.36,125.0,38.0,Cleansers,Face Wash & Cleansers,,1,1,2,0,1,3,2,0,2,1,1,1,0,1,1,1,0,1
+1444,Clearcalm Clarifying Clay Cleanser,REN Clean Skincare,4303,4.6,40.0,38.0,Cleansers,Face Wash & Cleansers,5.1,1,3,2,1,1,0,2,7,1,1,1,1,1,1,0,1,1,1
+1445,Hydration Replenish Microencapsulated Plumping Gel Moisturizer,ROSE INC,5567,4.6561,189.0,70.0,Moisturizers,Moisturizers,1.7,2,2,2,3,0,0,2,6,1,1,1,1,1,0,0,1,1,1
+1449,SuperFruit Gentle Brightening Cleanser,ROSE Ingleton MD,2610,4.7143,14.0,38.0,Cleansers,Face Wash & Cleansers,6.0,2,1,0,1,2,2,1,0,1,1,1,0,1,1,1,1,0,1
+1471,Bright Repair Eye Cream – 10% Vitamin C,Saint Jane Beauty,7304,4.2948,173.0,65.0,Eye Care,Eye Creams & Treatments,0.5,2,3,0,2,1,2,2,3,1,1,1,0,1,1,1,1,1,1
+1472,Sacred Sleep Overnight Repair with Retinol,Saint Jane Beauty,3758,4.7544,57.0,70.0,Treatments,Face Serums,1.7,1,6,1,2,0,2,2,4,1,1,1,1,1,0,1,1,1,1
+1481,Instant Masks,SEPHORA COLLECTION,50038,3.5165,455.0,8.0,Masks,Face Masks,1.69,1,1,2,0,0,3,3,2,1,1,1,1,0,0,1,1,1,1
+1483,Clean Skin Gel Cleanser with Prebiotics,SEPHORA COLLECTION,43752,4.6286,420.0,12.0,Cleansers,Face Wash & Cleansers,4.22,1,1,1,0,1,2,0,0,1,1,1,1,0,1,1,0,0,1
+1484,Clean Face Mask,SEPHORA COLLECTION,80684,4.1455,385.0,5.5,Masks,Sheet Masks,,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1
+1486,Clean Eye Mask,SEPHORA COLLECTION,94157,4.1698,371.0,3.5,Masks,Sheet Masks,,0,1,0,0,0,2,1,0,1,0,1,0,0,0,1,1,0,1
+1488,Vanilla Lip Sleeping Mask,SEPHORA COLLECTION,45533,3.5475,316.0,5.0,Lip Balms & Treatments,Lip Balms & Treatments,0.5,0,1,1,1,0,0,1,1,0,0,1,1,1,0,0,1,1,0
+1489,Resurfacing Peel Mask,SEPHORA COLLECTION,20307,4.8299,241.0,18.0,Treatments,Facial Peels,1.69,0,2,3,0,0,3,0,0,2,0,1,1,0,0,1,0,0,1
+1490,Vegan Makeup Remover and Cleansing Brush,SEPHORA COLLECTION,19958,4.3651,241.0,14.0,High Tech Tools,Facial Cleansing Brushes,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1491,Overnight Hydrating Mask,SEPHORA COLLECTION,5527,4.8268,231.0,16.0,Masks,Face Masks,1.69,1,2,2,1,0,0,0,2,1,1,1,1,1,0,0,0,1,1
+1492,Vitamin Mask,SEPHORA COLLECTION,27165,4.4826,201.0,10.0,Masks,Face Masks,4.22,1,6,1,1,0,3,2,2,1,1,1,1,1,0,1,1,1,1
+1493,Smoothing Cleanser,SEPHORA COLLECTION,10098,4.638,163.0,12.0,Cleansers,Face Wash & Cleansers,4.22,2,1,2,0,1,2,0,0,1,1,1,1,0,1,1,0,0,1
+1494,Clean Foot Mask,SEPHORA COLLECTION,34386,4.2692,156.0,5.0,Masks,Sheet Masks,,1,1,1,0,0,1,1,0,1,1,1,1,0,0,1,1,0,1
+1497,1 Minute Face Masks,SEPHORA COLLECTION,23473,3.5124,121.0,12.0,Masks,Sheet Masks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1499,SUPERMASK - The Charcoal Mask,SEPHORA COLLECTION,16867,3.7614,88.0,5.5,Masks,Face Masks,,2,2,1,1,0,4,2,2,1,1,1,1,1,0,1,1,1,1
+1501,Clean Hand Mask,SEPHORA COLLECTION,16227,3.6818,66.0,5.0,Masks,Sheet Masks,,0,2,0,1,0,0,1,2,1,0,1,0,1,0,0,1,1,1
+1502,Gradual Self-Tanning Face Gel,SEPHORA COLLECTION,9757,3.8308,65.0,17.0,Sunscreen,Face Sunscreen,2.5,0,1,1,0,0,3,1,0,2,0,1,1,0,0,1,1,0,1
+1503,AHA Peeling Masks,SEPHORA COLLECTION,10299,3.6923,39.0,10.0,Masks,Face Masks,1.0,0,1,1,0,0,3,1,0,1,0,1,1,0,0,1,1,0,1
+1504,Face Mask Applicator,SEPHORA COLLECTION,32212,4.3684,38.0,10.0,Masks,Face Masks,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1505,Clean Hemp Mask,SEPHORA COLLECTION,11589,3.8889,36.0,5.5,Masks,Sheet Masks,,0,2,1,1,2,2,2,1,1,0,1,1,1,1,1,1,1,1
+1506,Grapefruit Peeling Mask - Skin Perfection,SEPHORA COLLECTION,0,3.4444,36.0,8.0,Masks,Face Masks,1.69,1,1,2,0,0,3,3,2,1,1,1,1,0,0,1,1,1,1
+1507,Vitamin Eye Masks,SEPHORA COLLECTION,26055,3.9118,34.0,3.5,Eye Care,Eye Masks,,0,1,0,1,1,0,1,1,1,0,1,0,1,1,0,1,1,1
+1508,Clean Watermelon After Sun Mask,SEPHORA COLLECTION,9000,4.6667,27.0,5.0,Masks,Sheet Masks,,1,1,1,0,1,1,1,1,2,1,1,1,0,1,1,1,1,1
+1509,Hemp Mousse Mask - Anti-Blemish,SEPHORA COLLECTION,0,3.5769,26.0,8.0,Masks,Face Masks,1.69,1,2,1,2,1,5,4,2,1,1,1,1,1,1,1,1,1,1
+1510,Clean Peeling Mask,SEPHORA COLLECTION,7245,4.4545,22.0,5.5,Masks,Sheet Masks,,1,2,0,2,2,2,2,1,1,1,1,0,1,1,1,1,1,1
+1511,Vitamin Face Masks,SEPHORA COLLECTION,10162,4.4,15.0,5.5,Masks,Sheet Masks,,1,1,1,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+1513,Reusable 3-Piece Grey Face Mask Set,SEPHORA COLLECTION,2624,4.0769,13.0,15.0,Wellness,Holistic Wellness,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1516,Prebiotic Smoothie Mask,SEPHORA COLLECTION,5029,4.0909,11.0,8.0,Masks,Face Masks,1.7,1,6,1,1,0,4,2,1,1,1,1,1,1,0,1,1,1,1
+1518,Clean 1 Minute Face Masks,SEPHORA COLLECTION,2950,1.8571,7.0,12.0,Masks,Face Masks,,2,2,1,0,0,2,1,1,1,1,1,1,0,0,1,1,1,1
+1519,Ultra Glow Mask with Vitamins C + E,SEPHORA COLLECTION,4478,4.5,6.0,16.0,Masks,Face Masks,,1,1,1,1,0,0,0,2,1,1,1,1,1,0,0,0,1,1
+1522,Coconut Lip Sleeping Mask,SEPHORA COLLECTION,1006,3.6667,3.0,5.0,Lip Balms & Treatments,Lip Balms & Treatments,0.5,1,1,1,1,0,0,1,2,0,1,1,1,1,0,0,1,1,0
+1523,Acne Treatment Gel,SEPHORA COLLECTION,1039,5.0,1.0,20.0,Treatments,Blemish & Acne Treatments,1.0,1,1,2,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1
+1525,Shani Darden by Déesse PRO LED Light Mask,Shani Darden Skin Care,4154,3.75,4.0,1900.0,High Tech Tools,Anti-Aging,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1526,Hydra Prep Soothing & Hydrating Gel,Shani Darden Skin Care,1033,4.3471,171.0,38.0,Moisturizers,Moisturizers,5.0,0,1,0,0,1,1,1,0,1,0,1,0,0,1,1,1,0,1
+1529,Benefiance WrinkleResist24 Pure Retinol Express Smoothing Eye Mask,Shiseido,81341,4.422,500.0,70.0,Eye Care,Eye Masks,,1,2,1,1,0,3,1,1,1,1,1,1,1,0,1,1,1,1
+1531,White Lucent Power Brightening Mask,Shiseido,13301,4.2532,79.0,72.0,Masks,Sheet Masks,0.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1532,Benefiance Pure Retinol Intensive Revitalizing Face Mask,Shiseido,11355,4.45,60.0,70.0,Masks,Sheet Masks,,1,2,1,1,0,3,4,1,1,1,1,1,1,0,1,1,1,1
+1533,White Lucent Brightening Gel Cream,Shiseido,6154,3.4848,33.0,75.0,Moisturizers,Moisturizers,1.7,0,1,3,2,0,2,4,3,1,0,1,1,1,0,1,1,1,1
+1534,White Lucent Overnight Cream & Mask,Shiseido,3749,3.2727,22.0,110.0,Moisturizers,Moisturizers,2.6,0,1,3,2,0,1,4,0,1,0,1,1,1,0,1,1,0,1
+1561,Facial Treatment Cleanser,SK-II,14027,4.1306,919.0,75.0,Cleansers,Face Wash & Cleansers,3.6,0,0,1,0,0,2,0,1,1,0,0,1,0,0,1,0,1,1
+1562,Pitera Facial Treatment Mask,SK-II,65151,4.2972,434.0,145.0,Masks,Sheet Masks,,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+1563,Brightening Derm Revival Mask,SK-II,7740,4.4194,62.0,170.0,Masks,Sheet Masks,,1,1,0,2,0,2,0,0,1,1,1,0,1,0,1,0,0,1
+1564,Wrinkle Release Facial Sheet Mask,Skin Laundry,2931,4.5,8.0,12.0,Masks,Sheet Masks,,1,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1
+1565,Wrinkle Release Neck & Chest Sheet Mask,Skin Laundry,2226,3.25,4.0,15.0,Masks,Sheet Masks,,1,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1
+1566,Barrier+ Foaming Oil Hydrating Cleanser,Skinfix,56605,4.5791,993.0,30.0,Cleansers,Face Wash & Cleansers,6.0,5,3,2,1,2,3,1,1,1,1,1,1,1,1,1,1,1,1
+1567,Barrier+ Skin Barrier Niacinamide Restoring Gel Cream,Skinfix,43004,4.5273,768.0,48.0,Moisturizers,Moisturizers,1.7,1,3,2,2,1,3,1,0,1,1,1,1,1,1,1,1,0,1
+1569,Acne+ 2% BHA + Azelaic Acid + Niacinamide + AHA Cleanser,Skinfix,36209,4.5648,432.0,35.0,Cleansers,Face Wash & Cleansers,5.0,3,2,4,2,0,4,1,0,2,1,1,1,1,0,1,1,0,1
+1570,Redness Recovery+ Antioxidant Redness Treatment Overnight Mask,Skinfix,19905,4.1577,241.0,52.0,Masks,Face Masks,1.7,0,7,2,2,1,4,1,6,3,0,1,1,1,1,1,1,1,1
+1571,Barrier+ Foaming Clay Cleanser,Skinfix,9256,4.4493,69.0,32.0,Cleansers,Face Wash & Cleansers,5.0,7,0,2,0,1,0,0,1,1,1,0,1,0,1,0,0,1,1
+1572,Barrier+ Lip Repair Balm,Skinfix,10271,3.0462,65.0,15.0,Lip Balms & Treatments,Lip Balms & Treatments,0.42,1,0,0,0,1,0,0,3,0,1,0,0,0,1,0,0,1,0
+1573,Silk Sleepmask,Slip,45835,3.7778,171.0,50.0,Wellness,Holistic Wellness,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1575,Lovely Lashes Contour Sleep Mask,Slip,3771,4.0,8.0,55.0,Wellness,Holistic Wellness,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1580,15% Niacinamide Gel Serum,SOBEL SKIN Rx,1702,4.1591,132.0,75.0,Treatments,Face Serums,1.7,0,2,0,1,3,1,1,0,1,0,1,0,1,1,1,1,0,1
+1592,Tan Build Up Remover Mitt,St. Tropez,10899,4.9492,59.0,9.0,Self Tanners,For Body,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1593,Self Tan Purity Water Gel,St. Tropez,1821,3.3103,58.0,44.0,Self Tanners,For Body,6.7,0,2,3,0,1,3,4,1,1,0,1,1,0,1,1,1,1,1
+1594,Self Tan Express Bronzing Gel,St. Tropez,2845,3.4783,23.0,46.0,Self Tanners,For Body,6.7,0,1,2,0,0,1,5,1,1,0,1,1,0,0,1,1,1,1
+1595,Hyaluronic Tripeptide Gel-Cream for Eyes,StriVectin,3261,4.6889,45.0,65.0,Eye Care,Eye Creams & Treatments,0.5,0,2,4,3,2,5,6,2,2,0,1,1,1,1,1,1,1,1
+1596,Advanced Retinol Daily Repair Face Moisturizer Broad Spectrum SPF 30,StriVectin,1162,4.7143,42.0,99.0,Moisturizers,Moisturizers,1.7,1,2,3,3,1,3,2,1,1,1,1,1,1,1,1,1,1,1
+1597,Multi Action Clear Gentle Daily Clarifying Cleanser for Acne and Breakouts,StriVectin,23,4.3471,171.0,29.0,Cleansers,Face Wash & Cleansers,5.0,3,1,3,0,1,1,2,0,1,1,1,1,0,1,1,1,0,1
+1598,Gentle Cleansing Oil Makeup Remover,Sulwhasoo,31523,4.4532,406.0,40.0,Cleansers,Face Wash & Cleansers,6.76,2,1,0,0,0,1,3,6,1,1,1,0,0,0,1,1,1,1
+1599,Mini Gentle Cleansing Oil Makeup Remover,Sulwhasoo,23559,4.4532,406.0,13.0,Mini Size,Mini Size,,2,1,0,0,0,1,3,6,1,1,1,0,0,0,1,1,1,1
+1600,Gentle Cleansing Foam Hydrating Makeup Remover,Sulwhasoo,22064,4.5596,277.0,38.0,Cleansers,Face Wash & Cleansers,6.76,6,1,1,0,0,2,4,0,1,1,1,1,0,0,1,1,0,1
+1601,Mini Gentle Cleansing Foam Hydrating Makeup Remover,Sulwhasoo,12981,4.5596,277.0,12.0,Mini Size,Mini Size,,6,1,1,0,0,2,4,0,1,1,1,1,0,0,1,1,0,1
+1602,Overnight Vitalizing Mask,Sulwhasoo,12664,4.717,106.0,54.0,Masks,Face Masks,,1,5,4,1,0,3,4,1,1,1,1,1,1,0,1,1,1,1
+1603,Clarifying Peel Off Mask,Sulwhasoo,2963,4.5,10.0,45.0,Masks,Face Masks,,0,2,0,1,0,1,4,1,1,0,1,0,1,0,1,1,1,1
+1604,Overnight Vitalizing Sleeping Mask,Sulwhasoo,259,3.25,4.0,54.0,Masks,Face Masks,,1,5,4,1,0,3,4,1,1,1,1,1,1,0,1,1,1,1
+1605,White Ginseng Radiance Refining Mask,Sulwhasoo,1769,5.0,1.0,68.0,Masks,Face Masks,4.05,0,3,0,0,0,2,3,0,1,0,1,0,0,0,1,1,0,1
+1606,Concentrated Ginseng Renewing Sheet Masks,Sulwhasoo,1048,4.3471,171.0,120.0,Masks,Sheet Masks,0.63,2,4,0,4,0,4,4,0,1,1,1,0,1,0,1,1,0,1
+1607,Jet Lag Mask,Summer Fridays,245435,4.0262,4427.0,49.0,Masks,Face Masks,2.25,0,8,1,1,3,2,1,2,1,0,1,1,1,1,1,1,1,1
+1608,Mini Jet Lag Mask,Summer Fridays,2900,4.0262,4427.0,26.0,Masks,Face Masks,1.0,0,8,1,1,3,2,1,2,1,0,1,1,1,1,1,1,1,1
+1609,Cloud Dew Gel Cream Moisturizer,Summer Fridays,51838,4.4613,646.0,45.0,Moisturizers,Moisturizers,1.7,0,4,5,4,0,0,0,0,1,0,1,1,1,0,0,0,0,1
+1610,Mini Cloud Dew Oil-Free Gel Cream,Summer Fridays,12092,4.4613,646.0,17.0,Moisturizers,Moisturizers,0.5,0,4,5,4,0,0,0,0,1,0,1,1,1,0,0,0,0,1
+1611,Overtime Mask,Summer Fridays,68583,4.4087,531.0,49.0,Masks,Face Masks,2.25,0,3,0,0,1,2,1,8,1,0,1,0,0,1,1,1,1,1
+1612,R + R Mask,Summer Fridays,47304,3.7972,493.0,54.0,Masks,Face Masks,2.25,0,1,0,1,0,2,3,8,0,0,1,0,1,0,1,1,1,0
+1613,Super Amino Gel Cleanser,Summer Fridays,30871,4.0833,312.0,35.0,Cleansers,Face Wash & Cleansers,5.0,3,1,1,0,1,2,2,1,1,1,1,1,0,1,1,1,1,1
+1619,Ceramic Slip French Green Clay Cleanser,Sunday Riley,50777,3.8453,950.0,35.0,Cleansers,Face Wash & Cleansers,5.0,1,0,2,0,1,0,1,2,1,1,0,1,0,1,0,1,1,1
+1621,Saturn Sulfur + Niacinamide Spot Treatment Mask,Sunday Riley,8678,3.1515,99.0,20.0,Masks,Face Masks,0.5,0,0,0,2,1,3,0,4,1,0,0,0,1,1,1,0,1,1
+1634,SEA Deep Dive Cleansing Gel,tarte,48796,4.312,1157.0,12.0,Cleansers,Face Wash & Cleansers,1.7,9,0,1,1,2,2,2,2,1,1,0,1,1,1,1,1,1,1
+1635,SEA FRXXXTION Stick Exfoliating Cleanser,tarte,38635,4.5315,969.0,22.0,Cleansers,Face Wash & Cleansers,1.0,2,1,0,0,0,2,0,0,1,1,1,0,0,0,1,0,0,1
+1644,knockout daily exfoliating cleanser,tarte,5032,3.8983,59.0,12.0,Cleansers,Face Wash & Cleansers,1.0,3,2,4,0,0,2,4,2,1,1,1,1,0,0,1,1,1,1
+1646,Mini SEA Deep Dive Cleansing Gel,tarte,7205,4.2889,45.0,12.0,Mini Size,Mini Size,1.7,9,0,1,1,2,2,2,2,1,1,0,1,1,1,1,1,1,1
+1647,Mini knockout daily exfoliating cleanser,tarte,4343,3.7895,19.0,12.0,Mini Size,Mini Size,1.0,3,2,4,0,0,2,4,2,1,1,1,1,0,0,1,1,1,1
+1648,Mini Micellar Magic Makeup Remover & Cleanser,tarte,3357,3.4286,14.0,9.0,Mini Size,Mini Size,1.5,1,1,1,0,0,2,1,1,1,1,1,1,0,0,1,1,1,1
+1649,knockout brightening gel moisturizer,tarte,2400,4.25,8.0,14.0,Moisturizers,Moisturizers,0.5,0,2,1,0,1,4,2,1,2,0,1,1,0,1,1,1,1,1
+1650,Moisturizer Mini knockout brightening gel,tarte,4857,4.6667,3.0,14.0,Mini Size,Mini Size,0.5,0,2,1,0,1,4,2,1,2,0,1,1,0,1,1,1,1,1
+1652,Resurfacing BHA Glow Mask,Tata Harper,55191,4.3471,847.0,68.0,Masks,Face Masks,1.0,1,0,0,0,1,0,2,0,1,1,0,0,0,1,0,1,0,1
+1653,Regenerating Exfoliating Cleanser,Tata Harper,40150,4.4649,699.0,88.0,Cleansers,Face Wash & Cleansers,4.1,2,3,0,0,1,1,2,1,1,1,1,0,0,1,1,1,1,1
+1654,Clarifying Blemish & Oil Control Cleanser,Tata Harper,19570,3.9476,267.0,88.0,Cleansers,Face Wash & Cleansers,4.1,5,1,3,1,0,0,2,1,1,1,1,1,1,0,0,1,1,1
+1655,Mini Clarifying Blemish & Oil Control Cleanser,Tata Harper,4047,3.9476,267.0,46.0,Mini Size,Mini Size,1.7,5,1,3,1,0,0,2,1,1,1,1,1,1,0,0,1,1,1
+1656,Clarifying AHA + BHA Mask,Tata Harper,16958,3.916,250.0,75.0,Masks,Face Masks,1.0,0,1,1,0,0,0,2,5,2,0,1,1,0,0,0,1,1,1
+1657,Purifying Pore Detox Cleanser,Tata Harper,14771,4.2059,170.0,88.0,Cleansers,Face Wash & Cleansers,4.1,1,1,0,0,1,0,2,9,1,1,1,0,0,1,0,1,1,1
+1658,Mini Purifying Pore Detox Cleanser,Tata Harper,3104,4.2059,170.0,46.0,Mini Size,Mini Size,1.7,1,1,0,0,1,0,2,9,1,1,1,0,0,1,0,1,1,1
+1659,Repairative Anti-Aging Moisturizer,Tata Harper,6030,3.4118,136.0,130.0,Moisturizers,Moisturizers,1.7,0,2,0,0,1,0,2,3,2,0,1,0,0,1,0,1,1,1
+1660,Purifying Pore & Blackhead Detox Mask,Tata Harper,18342,3.845,129.0,75.0,Masks,Face Masks,1.0,1,3,1,0,1,0,2,4,1,1,1,1,0,1,0,1,1,1
+1661,Nourishing Makeup Removing Oil Cleanser,Tata Harper,9393,4.0211,95.0,88.0,Cleansers,Face Wash & Cleansers,4.1,0,3,0,1,0,0,2,14,0,0,1,0,1,0,0,1,1,0
+1662,Superkind Fragrance-Free Softening Cleanser,Tata Harper,4114,4.5417,48.0,88.0,Cleansers,Face Wash & Cleansers,4.2,2,5,1,0,1,0,0,7,1,1,1,1,0,1,0,0,1,1
+1663,Hydrating Floral Mask,Tata Harper,4076,4.375,32.0,95.0,Masks,Face Masks,1.0,2,4,4,1,0,0,0,7,3,1,1,1,1,0,0,0,1,1
+1664,Superkind Fragrance-Free Radiance Mask,Tata Harper,4881,4.75,4.0,68.0,Masks,Face Masks,1.0,0,2,3,0,1,0,0,2,1,0,1,1,0,1,0,0,1,1
+1665,Superkind Refining Cleanser,Tata Harper,689,5.0,1.0,88.0,Cleansers,Face Wash & Cleansers,4.1,1,5,3,0,1,0,0,6,1,1,1,1,0,1,0,0,1,1
+1666,The Rice Wash Skin-Softening Cleanser,Tatcha,190401,4.5018,2449.0,40.0,Cleansers,Face Wash & Cleansers,4.0,3,2,0,0,0,3,2,0,1,1,1,0,0,0,1,1,0,1
+1667,Mini Rice Wash Skin-Softening Cleanser,Tatcha,5450,4.5018,2449.0,18.0,Mini Size,Mini Size,1.7,3,2,0,0,0,3,2,0,1,1,1,0,0,0,1,1,0,1
+1668,The Deep Cleanse Gentle Exfoliating Cleanser,Tatcha,245976,4.1478,2361.0,40.0,Cleansers,Face Wash & Cleansers,5.0,2,2,0,0,0,2,2,1,1,1,1,0,0,0,1,1,1,1
+1669,Mini Deep Cleanse Gentle Exfoliating Cleanser,Tatcha,5097,4.1478,2361.0,18.0,Mini Size,Mini Size,1.7,2,2,0,0,0,2,2,1,1,1,1,0,0,0,1,1,1,1
+1670,The Camellia Oil 2-in-1 Makeup Remover & Cleanser,Tatcha,142010,4.4815,1836.0,50.0,Cleansers,Face Wash & Cleansers,5.0,0,1,0,1,0,2,3,3,1,0,1,0,1,0,1,1,1,1
+1671,The Kissu Lip Mask,Tatcha,202204,3.7724,1226.0,29.0,Lip Balms & Treatments,Lip Balms & Treatments,0.32,0,2,0,2,1,2,3,1,2,0,1,0,1,1,1,1,1,1
+1672,Indigo Overnight Repair Serum in Cream Treatment,Tatcha,104455,4.5474,1098.0,92.0,Moisturizers,Moisturizers,1.7,2,4,2,1,0,2,1,0,1,1,1,1,1,0,1,1,0,1
+1673,Mini Indigo Overnight Repair Serum in Cream Treatment,Tatcha,17810,4.5474,1098.0,22.0,Moisturizers,Moisturizers,0.34,2,4,2,1,0,2,1,0,1,1,1,1,1,0,1,1,0,1
+1674,Violet-C Radiance Mask,Tatcha,96300,4.0507,651.0,70.0,Masks,Face Masks,1.7,0,3,0,1,0,2,3,1,1,0,1,0,1,0,1,1,1,1
+1675,The Clarifying Clay Mask Exfoliating Pore Treatment,Tatcha,46732,4.6316,209.0,70.0,Masks,Face Masks,1.7,1,2,0,2,0,2,4,1,1,1,1,0,1,0,1,1,1,1
+1676,Luminous Deep Hydration Lifting Mask,Tatcha,27298,4.4074,81.0,95.0,Masks,Sheet Masks,0.68,0,2,0,0,0,2,2,0,1,0,1,0,0,0,1,1,0,1
+1677,Ageless Revitalizing Neck Cream,Tatcha,12625,4.15,20.0,112.0,Moisturizers,Decollete & Neck Creams,1.7,1,3,1,0,0,2,2,3,1,1,1,1,0,0,1,1,1,1
+1678,Salicylic Acid Acne + Pore Cleanser,The INKEY List,150051,4.3775,1547.0,11.99,Cleansers,Face Wash & Cleansers,5.0,5,2,4,1,1,3,1,3,1,1,1,1,1,1,1,1,1,1
+1680,Fulvic Acid Brightening Cleanser,The INKEY List,38263,4.4203,345.0,11.99,Cleansers,Face Wash & Cleansers,5.0,2,1,1,0,1,2,0,3,1,1,1,1,0,1,1,0,1,1
+1681,Mini Fulvic Acid Brightening Cleanser,The INKEY List,18399,4.4203,345.0,5.99,Cleansers,Face Wash & Cleansers,1.7,2,1,1,0,1,2,0,3,1,1,1,1,0,1,1,0,1,1
+1684,Kaolin Mask,The INKEY List,30744,4.3084,227.0,7.49,Masks,Face Masks,1.7,0,3,2,1,1,3,1,2,1,0,1,1,1,1,1,1,1,1
+1685,Hyaluronic Acid Cleanser,The INKEY List,18857,4.1735,219.0,10.99,Cleansers,Face Wash & Cleansers,5.0,2,3,2,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+1687,SuperSolutions 5% Benzoyl Peroxide Cleanser Acne Solution,The INKEY List,6148,3.7722,79.0,17.99,Cleansers,Face Wash & Cleansers,5.0,2,2,1,0,0,2,1,0,1,1,1,1,0,0,1,1,0,1
+1689,"Barrier Culture Cleanser Pre-, Pro- & Postbiotic Face Wash",The Nue Co.,27,5.0,6.0,42.0,Cleansers,Face Wash & Cleansers,3.3,1,3,5,0,1,1,1,0,1,1,1,1,0,1,1,1,0,1
+1691,Squalane Cleanser,The Ordinary,121486,4.0068,888.0,9.0,Cleansers,Face Wash & Cleansers,1.7,1,3,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1
+1694,Mini Squalane Cleanser,The Ordinary,27760,3.9537,108.0,9.0,Cleansers,Face Wash & Cleansers,1.7,1,3,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1
+1695,Glucoside Foaming Cleanser,The Ordinary,1580,4.3333,6.0,12.5,Cleansers,Face Wash & Cleansers,5.0,2,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1,0,1
+1697,Gentle Micellar Antioxidant Cleanser,The Outset,3860,4.6937,111.0,32.0,Cleansers,Face Wash & Cleansers,5.0,1,2,3,1,0,3,1,4,2,1,1,1,1,0,1,1,1,1
+1701,The Cult Classic Purifying Face Cleanser,TULA Skincare,11798,3.9064,406.0,34.0,Cleansers,Face Wash & Cleansers,6.7,4,2,3,0,1,4,5,4,1,1,1,1,0,1,1,1,1,1
+1702,Mini The Cult Classic Purifying Face Cleanser,TULA Skincare,6904,3.9064,406.0,12.0,Cleansers,Face Wash & Cleansers,1.69,4,2,3,0,1,4,5,4,1,1,1,1,0,1,1,1,1,1
+1703,Protect + Glow Daily Sunscreen Gel Broad Spectrum SPF 30,TULA Skincare,8977,4.4256,195.0,38.0,Sunscreen,Face Sunscreen,1.7,0,2,1,1,0,3,1,0,1,0,1,1,1,0,1,1,0,1
+1704,Beauty Sleep Overnight Repair Treatment Cream with AHA's and Vitamin C,TULA Skincare,1817,4.0417,72.0,68.0,Moisturizers,Moisturizers,1.6,0,3,2,0,1,5,5,3,1,0,1,1,0,1,1,1,1,1
+1705,So Smooth Resurfacing & Brightening Fruit Enzyme Mask,TULA Skincare,2603,4.25,44.0,36.0,Masks,Face Masks,1.76,0,1,2,0,1,2,0,0,1,0,1,1,0,1,1,0,0,1
+1706,Claydate Detoxifying & Toning Face Mask Stick,TULA Skincare,1460,4.3333,36.0,36.0,Masks,Face Masks,1.23,0,2,3,1,0,3,2,0,2,0,1,1,1,0,1,1,0,1
+1797,Baggage Claim Eye Masks,Wander Beauty,47687,4.0796,490.0,26.0,Eye Care,Eye Masks,,0,2,2,2,2,1,1,1,1,0,1,1,1,1,1,1,1,1
+1800,Baggage Claim Rose Gold Eye Masks,Wander Beauty,38772,4.0986,71.0,26.0,Eye Care,Eye Masks,,0,2,2,2,2,1,1,1,1,0,1,1,1,1,1,1,1,1
+1802,SHIKULIME Gel-to-Oil Cleanser,WASO,1360,4.4249,506.0,28.0,Cleansers,Face Wash & Cleansers,4.0,1,1,1,1,0,1,0,3,2,1,1,1,1,0,1,0,1,1
+1803,SATOCANE Pore Purifying Scrub Mask,WASO,1673,4.5729,494.0,38.0,Masks,Face Masks,3.3,1,1,0,0,0,1,0,4,2,1,1,0,0,0,1,0,1,1
+1804,YUZU-C Beauty Sleeping Mask,WASO,4247,4.595,484.0,38.0,Masks,Face Masks,1.7,0,1,0,1,0,1,1,4,2,0,1,0,1,0,1,1,1,1
+1805,Pillowgasm Vitamin-Rich Cherry Glow Sleep Mask,Wishful,5771,4.4154,65.0,39.0,Masks,Face Masks,1.94,2,2,4,0,0,1,1,2,1,1,1,1,0,0,1,1,1,1
+1806,Superfood Antioxidant Cleanser,Youth To The People,404142,4.2112,5851.0,39.0,Cleansers,Face Wash & Cleansers,8.0,3,2,1,0,3,5,6,1,1,1,1,1,0,1,1,1,1,1
+1807,Mini Superfood Antioxidant Cleanser,Youth To The People,121678,4.2121,5841.0,14.0,Mini Size,Mini Size,2.0,3,2,1,0,3,5,6,1,1,1,1,1,0,1,1,1,1,1
+1808,Superberry Hydrate + Glow Dream Night Mask with Vitamin C,Youth To The People,248887,4.3237,2354.0,52.0,Masks,Face Masks,2.0,1,4,2,1,2,2,3,2,1,1,1,1,1,1,1,1,1,1
+1809,Mini Superberry Hydrate + Glow Dream Mask,Youth To The People,79524,4.3237,2354.0,18.0,Mini Size,Mini Size,0.5,1,4,2,1,2,2,3,2,1,1,1,1,1,1,1,1,1,1
+1810,Superclay Purify + Clear Power Mask with Niacinamide,Youth To The People,62672,4.4595,346.0,38.0,Masks,Face Masks,2.0,0,2,4,1,2,3,0,1,1,0,1,1,1,1,1,0,1,1
